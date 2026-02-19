@@ -1,8 +1,9 @@
 body {
     margin: 0;
     font-family: 'Segoe UI', sans-serif;
-    background: #f9fafb;
+    background: #f9fafb;  /* slightly lighter than sidebar */
 }
+
 
 .layout {
     display: flex;
@@ -106,6 +107,7 @@ body {
     margin-top: 8px;
     color: #6b7280;
 }
+
 
 
 
