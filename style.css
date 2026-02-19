@@ -11,7 +11,7 @@ body {
 
 .sidebar {
     width: 240px;
-    background: #ffffff;
+    background: #f3f4f6;   /* light grey */
     border-right: 1px solid #e5e7eb;
     padding: 30px 20px;
 }
@@ -33,14 +33,14 @@ body {
 }
 
 .sidebar a:hover {
-    background: #f3f4f6;
-    color: #111827;
+    background: #e5e7eb;
 }
 
 .sidebar a.active {
-    background: #e0f2fe;
+    background: #dbeafe;
     color: #2563eb;
 }
+
 
 .main {
     flex: 1;
@@ -106,6 +106,7 @@ body {
     margin-top: 8px;
     color: #6b7280;
 }
+
 
 
 
