@@ -63,8 +63,8 @@ body {
 }
 
 .stats {
-    display: grid;
-    grid-template-columns: repeat(3, 1fr);
+    display: flex;
+    justify-content: space-between;
     gap: 20px;
     margin-bottom: 40px;
 }
@@ -73,6 +73,7 @@ body {
     background: white;
     padding: 25px;
     border-radius: 12px;
+    flex: 1;
     box-shadow: 0 6px 15px rgba(0,0,0,0.06);
     text-align: center;
 }
@@ -87,6 +88,8 @@ body {
     margin-top: 8px;
     color: #6b7280;
 }
+
+
 
 
 
