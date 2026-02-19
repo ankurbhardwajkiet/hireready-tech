@@ -1,72 +1,60 @@
 body {
-    font-family: 'Segoe UI', sans-serif;
     margin: 0;
-    background: #f4f6fb;
-    color: #333;
+    font-family: 'Segoe UI', sans-serif;
+    background: #f9fafb;
 }
 
-.hero {
-    background: linear-gradient(90deg, #1e3c72, #2a5298);
+.layout {
+    display: flex;
+    min-height: 100vh;
+}
+
+.sidebar {
+    width: 230px;
+    background: #111827;
     color: white;
-    padding: 80px 20px;
-    text-align: center;
+    padding: 30px 20px;
 }
 
-.hero h1 {
-    font-size: 42px;
-    margin-bottom: 10px;
+.sidebar h2 {
+    margin-bottom: 30px;
+    font-size: 20px;
 }
 
-.hero h3 {
-    font-weight: normal;
-    margin-top: 20px;
-}
-
-nav {
-    background: white;
-    text-align: center;
-    padding: 15px;
-    box-shadow: 0 2px 8px rgba(0,0,0,0.05);
-}
-
-nav a {
-    margin: 0 20px;
+.sidebar a {
+    display: block;
+    color: #d1d5db;
     text-decoration: none;
-    font-weight: 600;
-    color: #1e3c72;
+    margin-bottom: 15px;
 }
 
-.section {
-    padding: 60px 10%;
+.sidebar a:hover {
+    color: white;
 }
 
-.section h2 {
-    text-align: center;
-    margin-bottom: 40px;
-    color: #1e3c72;
+.main {
+    flex: 1;
+    padding: 40px;
 }
 
-.grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-    gap: 30px;
+.main h1 {
+    margin-bottom: 30px;
 }
 
 .card {
     background: white;
     padding: 25px;
-    border-radius: 12px;
-    box-shadow: 0 8px 20px rgba(0,0,0,0.05);
-    text-align: center;
+    border-radius: 10px;
+    margin-bottom: 25px;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.05);
 }
 
-.alt {
-    background: #e9edf7;
-}
-
-footer {
-    text-align: center;
-    padding: 30px;
-    background: #1e3c72;
+.btn {
+    display: inline-block;
+    padding: 10px 18px;
+    background: #2563eb;
     color: white;
+    text-decoration: none;
+    border-radius: 6px;
+    margin-top: 10px;
 }
