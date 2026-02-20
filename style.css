@@ -1,7 +1,7 @@
 body {
     margin: 0;
     font-family: 'Segoe UI', sans-serif;
-    background: #f9fafb;  /* slightly lighter than sidebar */
+    background: #f9fafb;
 }
 
 
@@ -12,9 +12,9 @@ body {
 
 .sidebar {
     width: 240px;
-    background: #f3f4f6;   /* light grey */
-    border-right: 1px solid #e5e7eb;
+    background: #f3f4f6;
     padding: 30px 20px;
+    border-right: 1px solid #e5e7eb;
 }
 
 .sidebar h2 {
@@ -112,9 +112,10 @@ body {
 .logo {
     display: flex;
     align-items: center;
-    gap: 10px;
+    gap: 12px;
     margin-bottom: 40px;
 }
+
 
 .logo-icon {
     background: #2563eb;
@@ -128,6 +129,7 @@ body {
     font-size: 18px;
     font-weight: 700;
     color: #111827;
+     line-height: 1.2;
 }
 
 
@@ -173,6 +175,7 @@ body {
         radial-gradient(circle at 85% 80%, rgba(37,99,235,0.06), transparent 40%),
         linear-gradient(135deg, #f8fafc, #eef2ff);
 }
+
 
 
 
