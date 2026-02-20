@@ -164,6 +164,13 @@ body::before {
     z-index: 0;
 }
 
+body {
+    background:
+        radial-gradient(circle at 20% 20%, rgba(37,99,235,0.05), transparent 40%),
+        radial-gradient(circle at 80% 80%, rgba(37,99,235,0.05), transparent 40%),
+        #f8fafc;
+}
+
 
 
 
