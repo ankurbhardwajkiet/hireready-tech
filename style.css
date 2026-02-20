@@ -108,6 +108,27 @@ body {
     color: #6b7280;
 }
 
+.logo {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin-bottom: 40px;
+}
+
+.logo-icon {
+    background: #2563eb;
+    color: white;
+    padding: 6px 10px;
+    border-radius: 8px;
+    font-weight: 700;
+}
+
+.logo-text {
+    font-size: 18px;
+    font-weight: 600;
+    color: #111827;
+}
+
 
 
 
