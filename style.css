@@ -147,6 +147,22 @@ body {
     font-weight: 500;
 }
 
+body::before {
+    content: "";
+    position: fixed;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 240px; /* sidebar width */
+    background-image: url('placement-bg.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 600px;
+    opacity: 0.04;
+    pointer-events: none;
+    z-index: 0;
+}
+
 
 
 
