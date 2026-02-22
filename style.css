@@ -24,12 +24,14 @@ body {
 }
 
 .logo {
-    margin-bottom: 30px;
+    margin-bottom: 40px;
     text-align: center;
 }
 
 .logo img {
-    width: 140px;
+    width: 190px;      /* bigger */
+    max-width: 100%;
+    height: auto;
 }
 
 .sidebar a {
@@ -152,3 +154,4 @@ body::before {
     pointer-events: none;
     z-index: 0;
 }
+
