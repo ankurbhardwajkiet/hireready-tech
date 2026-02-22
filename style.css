@@ -24,8 +24,9 @@ body {
 }
 
 .logo {
-    margin-bottom: 40px;
-    text-align: center;
+    padding-bottom: 20px;
+    border-bottom: 1px solid rgba(255,255,255,0.1);
+    margin-bottom: 30px;
 }
 
 .logo img {
@@ -154,4 +155,5 @@ body::before {
     pointer-events: none;
     z-index: 0;
 }
+
 
