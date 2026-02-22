@@ -11,20 +11,69 @@
     <a href="index.html">← Back to Home</a>
 </header>
 
-<section>
-    <h2>📅 14 Feb 2026</h2>
-
-    <h3>Mass Recruiter Jobs</h3>
-    <ul>
-        <li><b>Company Name</b> – Role – Location – Package – <a href="#">Apply</a></li>
-    </ul>
-
-    <h3>Product-Based Jobs</h3>
-    <ul>
-        <li><b>Company Name</b> – Role – Location – Package – <a href="#">Apply</a></li>
-    </ul>
-
+<section id="jobs-container">
+    Loading jobs...
 </section>
+
+<script>
+fetch("data/jobs-source.json")
+  .then(response => response.json())
+  .then(jobs => {
+
+    const container = document.getElementById("jobs-container");
+    container.innerHTML = "";
+
+    const today = new Date().toISOString().split("T")[0];
+
+    // Group by category
+    const categories = {
+        "Mass Recruiter": [],
+        "Product Based": [],
+        "Internship": []
+    };
+
+    jobs.forEach(job => {
+        if(categories[job.category]){
+            categories[job.category].push(job);
+        }
+    });
+
+    for(const category in categories){
+
+        if(categories[category].length === 0) continue;
+
+        const sectionTitle = document.createElement("h2");
+        sectionTitle.innerText = category;
+        container.appendChild(sectionTitle);
+
+        categories[category].forEach(job => {
+
+            const card = document.createElement("div");
+            card.className = "card";
+
+            card.innerHTML = `
+                <h3>${job.title}</h3>
+                <p><b>Company:</b> ${job.company || ""}</p>
+                <p><b>Location:</b> ${job.location}</p>
+                <p><b>Posted On:</b> ${job.postedOn}</p>
+                <p><b>Skills:</b> ${job.skills ? job.skills.join(", ") : ""}</p>
+                <button onclick="redirectToJob('${job.applyLink}')">
+                    Apply Now
+                </button>
+            `;
+
+            container.appendChild(card);
+        });
+    }
+
+  });
+
+function redirectToJob(url){
+    if(confirm("You will be redirected to the official company career page. Continue?")){
+        window.open(url, "_blank");
+    }
+}
+</script>
 
 </body>
 </html>
