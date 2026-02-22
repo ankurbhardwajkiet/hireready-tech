@@ -1,20 +1,19 @@
 [
   {
-    "title": "Software Engineer - TCS",
-    "type": "Mass Recruiter",
-    "location": "India",
-    "applyLink": "https://www.tcs.com/careers"
-  },
-  {
-    "title": "SDE Intern - Flipkart",
-    "type": "Internship",
-    "location": "Bangalore",
-    "applyLink": "https://www.flipkartcareers.com"
-  },
-  {
-    "title": "Backend Developer - Zoho",
-    "type": "Product Based",
-    "location": "Chennai",
-    "applyLink": "https://careers.zoho.com"
+    "id": "job-001",
+    "title": "Data Science Intern",
+    "company": "Elderinity",
+    "companyType": "Product Based",
+    "category": "Internship",
+    "location": "Bengaluru",
+    "experience": "0-1 Years",
+    "skills": [
+      "Python",
+      "Data Analysis",
+      "Machine Learning"
+    ],
+    "postedOn": "2026-02-23",
+    "status": "Open",
+    "applyLink": "https://company.com/apply"
   }
 ]
