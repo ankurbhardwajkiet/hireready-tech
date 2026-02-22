@@ -15,10 +15,10 @@ body {
 
 /* Sidebar */
 .sidebar {
-    width: 240px;
-    background: #2b3445;
+    width: 260px;
+    background: linear-gradient(180deg, #2b3445, #232c3a);
     color: white;
-    padding-top: 20px;
+    padding-top: 25px;
 }
 
 .sidebar a {
@@ -150,4 +150,5 @@ body {
     cursor: pointer;
     font-weight: 500;
 }
+
 
