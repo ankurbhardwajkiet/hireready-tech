@@ -156,5 +156,41 @@ body::before {
     z-index: 0;
 }
 
+.logo {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    margin-bottom: 30px;
+    padding-bottom: 20px;
+    border-bottom: 1px solid rgba(255,255,255,0.08);
+}
+
+.brand-box {
+    background: linear-gradient(135deg, #2563eb, #3b82f6);
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+    padding: 8px 12px;
+    border-radius: 8px;
+}
+
+.brand-text {
+    display: flex;
+    flex-direction: column;
+}
+
+.brand-main {
+    font-size: 18px;
+    font-weight: 700;
+    color: white;
+}
+
+.brand-sub {
+    font-size: 13px;
+    color: #60a5fa;
+    margin-top: -3px;
+}
+
+
 
 
