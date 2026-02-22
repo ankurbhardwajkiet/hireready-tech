@@ -26,14 +26,14 @@ fetch("data/jobs-source.json")
     const today = new Date().toISOString().split("T")[0];
 
     // Group by category
-    const categories = {
-        "Mass Recruiter": [],
-        "Product Based": [],
-        "Internship": []
-    };
+   const categories = {
+    "Mass Recruiter": [],
+    "Product Based": [],
+    "Internship": []
+};
 
     jobs.forEach(job => {
-        if(categories[job.category]){
+        if(categories[job.type]){
             categories[job.category].push(job);
         }
     });
@@ -77,3 +77,4 @@ function redirectToJob(url){
 
 </body>
 </html>
+
