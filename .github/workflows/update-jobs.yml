@@ -2,7 +2,7 @@ name: Daily Job Update
 
 on:
   schedule:
-    - cron: "0 18 * * *"
+    - cron: "0 18 * * *"   # Daily 11:30 PM IST
   workflow_dispatch:
 
 permissions:
@@ -16,30 +16,15 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v3
 
-      - name: Update jobs JSON
-        run: |
-          echo '[
-            {
-              "title": "Software Engineer - TCS",
-              "type": "Mass Recruiter",
-              "location": "India",
-              "applyLink": "https://www.tcs.com/careers"
-            },
-            {
-              "title": "SDE Intern - Flipkart",
-              "type": "Internship",
-              "location": "Bangalore",
-              "applyLink": "https://www.flipkartcareers.com"
-            },
-            {
-              "title": "Backend Developer - Zoho",
-              "type": "Product Based",
-              "location": "Chennai",
-              "applyLink": "https://careers.zoho.com"
-            }
-          ]' > data/jobs-source.json
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.x"
 
-      - name: Commit and push
+      - name: Run job generator
+        run: python scripts/generate_jobs.py
+
+      - name: Commit and push updated JSON
         run: |
           git config user.name "github-actions"
           git config user.email "actions@github.com"
