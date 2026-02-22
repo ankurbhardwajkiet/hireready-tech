@@ -23,18 +23,16 @@ fetch("data/jobs-source.json")
     const container = document.getElementById("jobs-container");
     container.innerHTML = "";
 
-    const today = new Date().toISOString().split("T")[0];
+    const categories = {
+        "Mass Recruiter": [],
+        "Product Based": [],
+        "Internship": []
+    };
 
-    // Group by category
-   const categories = {
-    "Mass Recruiter": [],
-    "Product Based": [],
-    "Internship": []
-};
-
+    // Group jobs by type (NOT category)
     jobs.forEach(job => {
         if(categories[job.type]){
-            categories[job.category].push(job);
+            categories[job.type].push(job);
         }
     });
 
@@ -53,10 +51,7 @@ fetch("data/jobs-source.json")
 
             card.innerHTML = `
                 <h3>${job.title}</h3>
-                <p><b>Company:</b> ${job.company || ""}</p>
                 <p><b>Location:</b> ${job.location}</p>
-                <p><b>Posted On:</b> ${job.postedOn}</p>
-                <p><b>Skills:</b> ${job.skills ? job.skills.join(", ") : ""}</p>
                 <button onclick="redirectToJob('${job.applyLink}')">
                     Apply Now
                 </button>
@@ -77,4 +72,3 @@ function redirectToJob(url){
 
 </body>
 </html>
-
