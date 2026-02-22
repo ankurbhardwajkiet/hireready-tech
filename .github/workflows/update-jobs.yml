@@ -2,8 +2,11 @@ name: Daily Job Update
 
 on:
   schedule:
-    - cron: "0 18 * * *"   # 11:30 PM IST (6:00 PM UTC)
+    - cron: "0 18 * * *"
   workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   update:
@@ -13,7 +16,7 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v3
 
-      - name: Generate sample jobs
+      - name: Update jobs JSON
         run: |
           echo '[
             {
@@ -36,10 +39,10 @@ jobs:
             }
           ]' > data/jobs-source.json
 
-      - name: Commit changes
+      - name: Commit and push
         run: |
-          git config --global user.name "github-actions"
-          git config --global user.email "actions@github.com"
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
           git add data/jobs-source.json
           git commit -m "Auto update jobs" || echo "No changes"
           git push
