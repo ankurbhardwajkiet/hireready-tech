@@ -15,5 +15,131 @@
     "postedOn": "2026-02-23",
     "status": "Open",
     "applyLink": "https://company.com/apply"
+  },
+  {
+    "id": "a969426b-b219-4f78-bad2-71f5f79e7f45",
+    "title": "Software Engineer",
+    "company": "Wipro",
+    "companyType": "Mass Recruiter",
+    "category": "Mass Recruiter",
+    "location": "Chennai",
+    "experience": "0-2 Years",
+    "skills": [
+      "Python",
+      "AWS",
+      "SQL",
+      "Cloud"
+    ],
+    "postedOn": "2026-02-23",
+    "status": "Open",
+    "applyLink": "https://careers.wipro.com"
+  },
+  {
+    "id": "7004600e-430a-4f18-a8b8-d1f53679f7c3",
+    "title": "Backend Developer",
+    "company": "Zoho",
+    "companyType": "Product Based",
+    "category": "Product Based",
+    "location": "Chennai",
+    "experience": "1-3 Years",
+    "skills": [
+      "AWS",
+      "Machine Learning",
+      "Data Structures",
+      "Python"
+    ],
+    "postedOn": "2026-02-23",
+    "status": "Open",
+    "applyLink": "https://careers.zoho.com"
+  },
+  {
+    "id": "752e12cb-98b0-488c-9b16-a49b53152f17",
+    "title": "SDE Intern",
+    "company": "Google",
+    "companyType": "Internship",
+    "category": "Internship",
+    "location": "Hyderabad",
+    "experience": "Internship",
+    "skills": [
+      "Java",
+      "Node.js",
+      "Python",
+      "Cloud"
+    ],
+    "postedOn": "2026-02-23",
+    "status": "Open",
+    "applyLink": "https://careers.google.com"
+  },
+  {
+    "id": "3f493707-a998-41b4-ac3b-280f65bdd8be",
+    "title": "Software Engineer",
+    "company": "Tech Mahindra",
+    "companyType": "Mass Recruiter",
+    "category": "Mass Recruiter",
+    "location": "Remote",
+    "experience": "0-2 Years",
+    "skills": [
+      "SQL",
+      "Node.js",
+      "Machine Learning",
+      "Java"
+    ],
+    "postedOn": "2026-02-23",
+    "status": "Open",
+    "applyLink": "https://careers.techmahindra.com"
+  },
+  {
+    "id": "5392690f-f1e9-4eba-8bf3-7ff9e8e128df",
+    "title": "Backend Developer",
+    "company": "Amazon",
+    "companyType": "Product Based",
+    "category": "Product Based",
+    "location": "Hyderabad",
+    "experience": "1-3 Years",
+    "skills": [
+      "Node.js",
+      "Machine Learning",
+      "Cloud",
+      "Python"
+    ],
+    "postedOn": "2026-02-23",
+    "status": "Open",
+    "applyLink": "https://careers.amazon.com"
+  },
+  {
+    "id": "4e44bbe6-7bdc-4fbb-815a-8446b96d9d3b",
+    "title": "SDE Intern",
+    "company": "Swiggy",
+    "companyType": "Internship",
+    "category": "Internship",
+    "location": "Remote",
+    "experience": "Internship",
+    "skills": [
+      "SQL",
+      "Data Structures",
+      "Java",
+      "React"
+    ],
+    "postedOn": "2026-02-23",
+    "status": "Open",
+    "applyLink": "https://careers.swiggy.com"
+  },
+  {
+    "id": "54ace091-5375-4f5c-9e18-7453cd9888aa",
+    "title": "Backend Developer",
+    "company": "Razorpay",
+    "companyType": "Product Based",
+    "category": "Product Based",
+    "location": "Remote",
+    "experience": "1-3 Years",
+    "skills": [
+      "SQL",
+      "Docker",
+      "Python",
+      "Java"
+    ],
+    "postedOn": "2026-02-23",
+    "status": "Open",
+    "applyLink": "https://careers.razorpay.com"
   }
 ]
