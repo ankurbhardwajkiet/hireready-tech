@@ -11,63 +11,54 @@
     <a href="index.html">← Back to Home</a>
 </header>
 
-<section id="jobs-container">
-    Loading jobs...
-</section>
+<div id="jobs-container"></div>
 
 <script>
 fetch("data/jobs-source.json")
-  .then(response => response.json())
-  .then(jobs => {
+.then(res => res.json())
+.then(data => {
 
     const container = document.getElementById("jobs-container");
     container.innerHTML = "";
 
-    const categories = {
-        "Mass Recruiter": [],
-        "Product Based": [],
-        "Internship": []
-    };
+    if(data.length === 0){
+        container.innerHTML = "<p>No jobs available.</p>";
+        return;
+    }
 
-    // Group jobs by type (NOT category)
-    jobs.forEach(job => {
-        if(categories[job.type]){
-            categories[job.type].push(job);
-        }
+    data.forEach(job => {
+
+        const card = document.createElement("div");
+        card.className = "card";
+
+        card.innerHTML = `
+            <h3>${job.title}</h3>
+            <p><b>${job.company}</b> • ${job.location} • ${job.experience}</p>
+            <p>
+                ${job.skills.map(skill => 
+                    `<span class="skill-tag">${skill}</span>`
+                ).join(" ")}
+            </p>
+            <p>
+                <b>Posted:</b> ${job.postedOn}
+                <span class="status ${job.status === "Open" ? "open" : "closed"}">
+                    ${job.status}
+                </span>
+            </p>
+            ${
+                job.status === "Open"
+                ? `<a href="${job.applyLink}" target="_blank" class="btn">Apply Now</a>`
+                : `<button disabled class="btn">Closed</button>`
+            }
+        `;
+
+        container.appendChild(card);
     });
 
-    for(const category in categories){
-
-        if(categories[category].length === 0) continue;
-
-        const sectionTitle = document.createElement("h2");
-        sectionTitle.innerText = category;
-        container.appendChild(sectionTitle);
-
-        categories[category].forEach(job => {
-
-            const card = document.createElement("div");
-            card.className = "card";
-
-            card.innerHTML = `
-                <h3>${job.title}</h3>
-                <p><b>Location:</b> ${job.location}</p>
-                <button onclick="redirectToJob('${job.applyLink}')">
-                    Apply Now
-                </button>
-            `;
-
-            container.appendChild(card);
-        });
-    }
-
-  });
-
-function redirectToJob(url){
-    if(confirm("You will be redirected to the official company career page. Continue?")){
-        window.open(url, "_blank");
-    }
-}
+})
+.catch(err => {
+    console.error("Error loading jobs:", err);
+});
 </script>
 
 </body>
