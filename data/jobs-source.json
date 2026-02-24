@@ -1,5 +1,77 @@
 [
   {
+    "id": "e4944e47-fe87-41e7-b68f-c023dba397e1",
+    "title": "Backend Developer",
+    "company": "Freshworks",
+    "companyType": "Product Based",
+    "category": "Product Based",
+    "location": "India",
+    "experience": "1-3 Years",
+    "skills": [
+      "AWS",
+      "React",
+      "SQL",
+      "Node.js"
+    ],
+    "postedOn": "2026-02-24",
+    "status": "Open",
+    "applyLink": "https://careers.freshworks.com"
+  },
+  {
+    "id": "50bdf77f-6582-41c7-8cc4-955a71001ecb",
+    "title": "SDE Intern",
+    "company": "Microsoft",
+    "companyType": "Internship",
+    "category": "Internship",
+    "location": "India",
+    "experience": "Internship",
+    "skills": [
+      "Data Structures",
+      "Cloud",
+      "Node.js",
+      "React"
+    ],
+    "postedOn": "2026-02-24",
+    "status": "Open",
+    "applyLink": "https://careers.microsoft.com"
+  },
+  {
+    "id": "da006d86-2e5e-4df9-9d0a-07188b56f127",
+    "title": "Software Engineer",
+    "company": "TCS",
+    "companyType": "Mass Recruiter",
+    "category": "Mass Recruiter",
+    "location": "Chennai",
+    "experience": "0-2 Years",
+    "skills": [
+      "Java",
+      "Node.js",
+      "Python",
+      "Machine Learning"
+    ],
+    "postedOn": "2026-02-24",
+    "status": "Open",
+    "applyLink": "https://careers.tcs.com"
+  },
+  {
+    "id": "7a6c4be2-6d6e-43ee-bcbc-c03f48de0a6f",
+    "title": "SDE Intern",
+    "company": "PhonePe",
+    "companyType": "Internship",
+    "category": "Internship",
+    "location": "Hyderabad",
+    "experience": "Internship",
+    "skills": [
+      "SQL",
+      "React",
+      "Machine Learning",
+      "Node.js"
+    ],
+    "postedOn": "2026-02-24",
+    "status": "Open",
+    "applyLink": "https://careers.phonepe.com"
+  },
+  {
     "id": "job-001",
     "title": "Data Science Intern",
     "company": "Elderinity",
