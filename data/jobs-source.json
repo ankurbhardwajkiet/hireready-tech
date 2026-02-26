@@ -1,5 +1,23 @@
 [
   {
+    "id": "64b87522-a13e-416b-bd36-d0e078043bb9",
+    "title": "SDE Intern",
+    "company": "Paytm",
+    "companyType": "Internship",
+    "category": "Internship",
+    "location": "Chennai",
+    "experience": "Internship",
+    "skills": [
+      "Java",
+      "Data Structures",
+      "Cloud",
+      "Docker"
+    ],
+    "postedOn": "2026-02-26",
+    "status": "Open",
+    "applyLink": "https://careers.paytm.com"
+  },
+  {
     "id": "879136b2-f33a-46aa-9c7f-22c346de7e07",
     "title": "Software Engineer",
     "company": "Infosys",
