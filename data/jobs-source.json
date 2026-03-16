@@ -157,8 +157,9 @@
       "Machine Learning"
     ],
     "postedOn": "2026-02-23",
-    "status": "Open",
-    "applyLink": "https://company.com/apply"
+    "status": "Closed",
+    "applyLink": "https://company.com/apply",
+    "closedOn": "2026-03-16"
   },
   {
     "id": "a969426b-b219-4f78-bad2-71f5f79e7f45",
@@ -193,8 +194,9 @@
       "Python"
     ],
     "postedOn": "2026-02-23",
-    "status": "Open",
-    "applyLink": "https://careers.zoho.com"
+    "status": "Closed",
+    "applyLink": "https://careers.zoho.com",
+    "closedOn": "2026-03-16"
   },
   {
     "id": "752e12cb-98b0-488c-9b16-a49b53152f17",
@@ -211,8 +213,9 @@
       "Cloud"
     ],
     "postedOn": "2026-02-23",
-    "status": "Open",
-    "applyLink": "https://careers.google.com"
+    "status": "Closed",
+    "applyLink": "https://careers.google.com",
+    "closedOn": "2026-03-16"
   },
   {
     "id": "3f493707-a998-41b4-ac3b-280f65bdd8be",
@@ -247,8 +250,9 @@
       "Python"
     ],
     "postedOn": "2026-02-23",
-    "status": "Open",
-    "applyLink": "https://careers.amazon.com"
+    "status": "Closed",
+    "applyLink": "https://careers.amazon.com",
+    "closedOn": "2026-03-16"
   },
   {
     "id": "4e44bbe6-7bdc-4fbb-815a-8446b96d9d3b",
@@ -265,8 +269,9 @@
       "React"
     ],
     "postedOn": "2026-02-23",
-    "status": "Open",
-    "applyLink": "https://careers.swiggy.com"
+    "status": "Closed",
+    "applyLink": "https://careers.swiggy.com",
+    "closedOn": "2026-03-16"
   },
   {
     "id": "54ace091-5375-4f5c-9e18-7453cd9888aa",
@@ -283,7 +288,8 @@
       "Java"
     ],
     "postedOn": "2026-02-23",
-    "status": "Open",
-    "applyLink": "https://careers.razorpay.com"
+    "status": "Closed",
+    "applyLink": "https://careers.razorpay.com",
+    "closedOn": "2026-03-16"
   }
 ]
