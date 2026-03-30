@@ -216,24 +216,5 @@
     "status": "Closed",
     "applyLink": "https://careers.hcl.com",
     "closedOn": "2026-03-23"
-  },
-  {
-    "id": "da006d86-2e5e-4df9-9d0a-07188b56f127",
-    "title": "Software Engineer",
-    "company": "TCS",
-    "companyType": "Mass Recruiter",
-    "category": "Mass Recruiter",
-    "location": "Chennai",
-    "experience": "0-2 Years",
-    "skills": [
-      "Java",
-      "Node.js",
-      "Python",
-      "Machine Learning"
-    ],
-    "postedOn": "2026-02-24",
-    "status": "Closed",
-    "applyLink": "https://careers.tcs.com",
-    "closedOn": "2026-03-22"
   }
 ]
