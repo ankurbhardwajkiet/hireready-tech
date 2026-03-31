@@ -1,5 +1,59 @@
 [
   {
+    "id": "aefad77f-a2bc-456b-b0b0-7929bbbb936c",
+    "title": "Software Engineer",
+    "company": "Infosys",
+    "companyType": "Mass Recruiter",
+    "category": "Mass Recruiter",
+    "location": "India",
+    "experience": "0-2 Years",
+    "skills": [
+      "SQL",
+      "Node.js",
+      "Java",
+      "Machine Learning"
+    ],
+    "postedOn": "2026-03-31",
+    "status": "Open",
+    "applyLink": "https://careers.infosys.com"
+  },
+  {
+    "id": "87d38738-ecb5-4869-8b3b-e8119e4b2b2e",
+    "title": "SDE Intern",
+    "company": "Paytm",
+    "companyType": "Internship",
+    "category": "Internship",
+    "location": "India",
+    "experience": "Internship",
+    "skills": [
+      "Node.js",
+      "Data Structures",
+      "AWS",
+      "Docker"
+    ],
+    "postedOn": "2026-03-31",
+    "status": "Open",
+    "applyLink": "https://careers.paytm.com"
+  },
+  {
+    "id": "adb2cf1b-5128-428e-8830-b52e8840f4e7",
+    "title": "Software Engineer",
+    "company": "TCS",
+    "companyType": "Mass Recruiter",
+    "category": "Mass Recruiter",
+    "location": "Chennai",
+    "experience": "0-2 Years",
+    "skills": [
+      "Cloud",
+      "SQL",
+      "Machine Learning",
+      "Node.js"
+    ],
+    "postedOn": "2026-03-31",
+    "status": "Open",
+    "applyLink": "https://careers.tcs.com"
+  },
+  {
     "id": "7ea8824e-1b73-4e79-92eb-b80535fbd338",
     "title": "Software Engineer",
     "company": "Wipro",
@@ -178,43 +232,5 @@
     "postedOn": "2026-03-24",
     "status": "Open",
     "applyLink": "https://careers.amazon.com"
-  },
-  {
-    "id": "879136b2-f33a-46aa-9c7f-22c346de7e07",
-    "title": "Software Engineer",
-    "company": "Infosys",
-    "companyType": "Mass Recruiter",
-    "category": "Mass Recruiter",
-    "location": "Remote",
-    "experience": "0-2 Years",
-    "skills": [
-      "Machine Learning",
-      "Python",
-      "React",
-      "Node.js"
-    ],
-    "postedOn": "2026-02-25",
-    "status": "Closed",
-    "applyLink": "https://careers.infosys.com",
-    "closedOn": "2026-03-23"
-  },
-  {
-    "id": "4039feba-c51e-42eb-a264-8bcf7e5511e4",
-    "title": "Software Engineer",
-    "company": "HCL",
-    "companyType": "Mass Recruiter",
-    "category": "Mass Recruiter",
-    "location": "Remote",
-    "experience": "0-2 Years",
-    "skills": [
-      "SQL",
-      "AWS",
-      "Docker",
-      "React"
-    ],
-    "postedOn": "2026-02-25",
-    "status": "Closed",
-    "applyLink": "https://careers.hcl.com",
-    "closedOn": "2026-03-23"
   }
 ]
