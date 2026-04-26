@@ -1,5 +1,41 @@
 [
   {
+    "id": "f1a6ff91-1cdd-456e-9651-6bf6752d6900",
+    "title": "SDE Intern",
+    "company": "PhonePe",
+    "companyType": "Internship",
+    "category": "Internship",
+    "location": "India",
+    "experience": "Internship",
+    "skills": [
+      "Cloud",
+      "Java",
+      "React",
+      "Python"
+    ],
+    "postedOn": "2026-04-26",
+    "status": "Open",
+    "applyLink": "https://careers.phonepe.com"
+  },
+  {
+    "id": "64be0da6-a935-448f-b597-0006514c5e7c",
+    "title": "SDE Intern",
+    "company": "Microsoft",
+    "companyType": "Internship",
+    "category": "Internship",
+    "location": "Remote",
+    "experience": "Internship",
+    "skills": [
+      "Data Structures",
+      "Machine Learning",
+      "Node.js",
+      "Java"
+    ],
+    "postedOn": "2026-04-26",
+    "status": "Open",
+    "applyLink": "https://careers.microsoft.com"
+  },
+  {
     "id": "537f9345-8b78-458c-a890-1dab2441d892",
     "title": "Backend Developer",
     "company": "Amazon",
@@ -158,8 +194,9 @@
       "Machine Learning"
     ],
     "postedOn": "2026-03-31",
-    "status": "Open",
-    "applyLink": "https://careers.infosys.com"
+    "status": "Closed",
+    "applyLink": "https://careers.infosys.com",
+    "closedOn": "2026-04-26"
   },
   {
     "id": "87d38738-ecb5-4869-8b3b-e8119e4b2b2e",
@@ -195,8 +232,9 @@
       "Node.js"
     ],
     "postedOn": "2026-03-31",
-    "status": "Open",
-    "applyLink": "https://careers.tcs.com"
+    "status": "Closed",
+    "applyLink": "https://careers.tcs.com",
+    "closedOn": "2026-04-26"
   },
   {
     "id": "7ea8824e-1b73-4e79-92eb-b80535fbd338",
