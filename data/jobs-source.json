@@ -1,5 +1,23 @@
 [
   {
+    "id": "f6f1506f-e79a-4724-a553-44036a36222c",
+    "title": "Backend Developer",
+    "company": "Flipkart",
+    "companyType": "Product Based",
+    "category": "Product Based",
+    "location": "Remote",
+    "experience": "1-3 Years",
+    "skills": [
+      "Docker",
+      "Data Structures",
+      "Cloud",
+      "Java"
+    ],
+    "postedOn": "2026-04-28",
+    "status": "Open",
+    "applyLink": "https://careers.flipkart.com"
+  },
+  {
     "id": "f1a6ff91-1cdd-456e-9651-6bf6752d6900",
     "title": "SDE Intern",
     "company": "PhonePe",
@@ -158,8 +176,9 @@
       "Python"
     ],
     "postedOn": "2026-04-02",
-    "status": "Open",
-    "applyLink": "https://careers.techmahindra.com"
+    "status": "Closed",
+    "applyLink": "https://careers.techmahindra.com",
+    "closedOn": "2026-04-28"
   },
   {
     "id": "e6fcd523-b998-4f91-8623-e00f3f993017",
