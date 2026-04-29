@@ -1,5 +1,23 @@
 [
   {
+    "id": "15729b03-c658-4e01-bfa5-3e520d120030",
+    "title": "SDE Intern",
+    "company": "Paytm",
+    "companyType": "Internship",
+    "category": "Internship",
+    "location": "Chennai",
+    "experience": "Internship",
+    "skills": [
+      "Python",
+      "Data Structures",
+      "Machine Learning",
+      "SQL"
+    ],
+    "postedOn": "2026-04-29",
+    "status": "Open",
+    "applyLink": "https://careers.paytm.com"
+  },
+  {
     "id": "f6f1506f-e79a-4724-a553-44036a36222c",
     "title": "Backend Developer",
     "company": "Flipkart",
@@ -217,25 +235,6 @@
     "status": "Closed",
     "applyLink": "https://careers.infosys.com",
     "closedOn": "2026-04-26"
-  },
-  {
-    "id": "87d38738-ecb5-4869-8b3b-e8119e4b2b2e",
-    "title": "SDE Intern",
-    "company": "Paytm",
-    "companyType": "Internship",
-    "category": "Internship",
-    "location": "India",
-    "experience": "Internship",
-    "skills": [
-      "Node.js",
-      "Data Structures",
-      "AWS",
-      "Docker"
-    ],
-    "postedOn": "2026-03-31",
-    "status": "Closed",
-    "applyLink": "https://careers.paytm.com",
-    "closedOn": "2026-04-21"
   },
   {
     "id": "adb2cf1b-5128-428e-8830-b52e8840f4e7",
