@@ -1,5 +1,41 @@
 [
   {
+    "id": "ffe19b06-3193-47ac-8fd3-d3924afdfd44",
+    "title": "Software Engineer",
+    "company": "TCS",
+    "companyType": "Mass Recruiter",
+    "category": "Mass Recruiter",
+    "location": "India",
+    "experience": "0-2 Years",
+    "skills": [
+      "Node.js",
+      "SQL",
+      "Machine Learning",
+      "Python"
+    ],
+    "postedOn": "2026-05-04",
+    "status": "Open",
+    "applyLink": "https://careers.tcs.com"
+  },
+  {
+    "id": "54171e05-8f15-4b14-b09b-4134e66b8bc2",
+    "title": "Software Engineer",
+    "company": "Infosys",
+    "companyType": "Mass Recruiter",
+    "category": "Mass Recruiter",
+    "location": "Hyderabad",
+    "experience": "0-2 Years",
+    "skills": [
+      "Machine Learning",
+      "SQL",
+      "Data Structures",
+      "AWS"
+    ],
+    "postedOn": "2026-05-04",
+    "status": "Open",
+    "applyLink": "https://careers.infosys.com"
+  },
+  {
     "id": "58f32cdf-0eec-4961-b971-9b262c397d00",
     "title": "Software Engineer",
     "company": "Wipro",
@@ -234,43 +270,5 @@
     "status": "Closed",
     "applyLink": "https://careers.hcl.com",
     "closedOn": "2026-04-27"
-  },
-  {
-    "id": "aefad77f-a2bc-456b-b0b0-7929bbbb936c",
-    "title": "Software Engineer",
-    "company": "Infosys",
-    "companyType": "Mass Recruiter",
-    "category": "Mass Recruiter",
-    "location": "India",
-    "experience": "0-2 Years",
-    "skills": [
-      "SQL",
-      "Node.js",
-      "Java",
-      "Machine Learning"
-    ],
-    "postedOn": "2026-03-31",
-    "status": "Closed",
-    "applyLink": "https://careers.infosys.com",
-    "closedOn": "2026-04-26"
-  },
-  {
-    "id": "adb2cf1b-5128-428e-8830-b52e8840f4e7",
-    "title": "Software Engineer",
-    "company": "TCS",
-    "companyType": "Mass Recruiter",
-    "category": "Mass Recruiter",
-    "location": "Chennai",
-    "experience": "0-2 Years",
-    "skills": [
-      "Cloud",
-      "SQL",
-      "Machine Learning",
-      "Node.js"
-    ],
-    "postedOn": "2026-03-31",
-    "status": "Closed",
-    "applyLink": "https://careers.tcs.com",
-    "closedOn": "2026-04-26"
   }
 ]
