@@ -251,24 +251,5 @@
     "status": "Closed",
     "applyLink": "https://careers.techmahindra.com",
     "closedOn": "2026-04-28"
-  },
-  {
-    "id": "e6fcd523-b998-4f91-8623-e00f3f993017",
-    "title": "Software Engineer",
-    "company": "HCL",
-    "companyType": "Mass Recruiter",
-    "category": "Mass Recruiter",
-    "location": "India",
-    "experience": "0-2 Years",
-    "skills": [
-      "React",
-      "Data Structures",
-      "Machine Learning",
-      "Docker"
-    ],
-    "postedOn": "2026-04-01",
-    "status": "Closed",
-    "applyLink": "https://careers.hcl.com",
-    "closedOn": "2026-04-27"
   }
 ]
