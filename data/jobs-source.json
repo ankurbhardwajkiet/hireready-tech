@@ -1,5 +1,23 @@
 [
   {
+    "id": "d0c34a6b-d4ac-4abf-8ff2-41ef92f9503b",
+    "title": "Software Engineer",
+    "company": "HCL",
+    "companyType": "Mass Recruiter",
+    "category": "Mass Recruiter",
+    "location": "India",
+    "experience": "0-2 Years",
+    "skills": [
+      "Java",
+      "Data Structures",
+      "Machine Learning",
+      "AWS"
+    ],
+    "postedOn": "2026-05-06",
+    "status": "Open",
+    "applyLink": "https://careers.hcl.com"
+  },
+  {
     "id": "ffe19b06-3193-47ac-8fd3-d3924afdfd44",
     "title": "Software Engineer",
     "company": "TCS",
@@ -232,24 +250,5 @@
     "postedOn": "2026-04-22",
     "status": "Open",
     "applyLink": "https://careers.swiggy.com"
-  },
-  {
-    "id": "91da60af-dd75-480e-a34d-66d07f467b70",
-    "title": "Software Engineer",
-    "company": "Tech Mahindra",
-    "companyType": "Mass Recruiter",
-    "category": "Mass Recruiter",
-    "location": "Chennai",
-    "experience": "0-2 Years",
-    "skills": [
-      "Java",
-      "Node.js",
-      "SQL",
-      "Python"
-    ],
-    "postedOn": "2026-04-02",
-    "status": "Closed",
-    "applyLink": "https://careers.techmahindra.com",
-    "closedOn": "2026-04-28"
   }
 ]
