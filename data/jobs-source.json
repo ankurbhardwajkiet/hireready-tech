@@ -259,24 +259,5 @@
     "status": "Closed",
     "applyLink": "https://careers.razorpay.com",
     "closedOn": "2026-05-14"
-  },
-  {
-    "id": "e046cade-24cf-4e6a-ab2e-c3a75aee0718",
-    "title": "SDE Intern",
-    "company": "Swiggy",
-    "companyType": "Internship",
-    "category": "Internship",
-    "location": "Bangalore",
-    "experience": "Internship",
-    "skills": [
-      "Java",
-      "Data Structures",
-      "React",
-      "Docker"
-    ],
-    "postedOn": "2026-04-22",
-    "status": "Closed",
-    "applyLink": "https://careers.swiggy.com",
-    "closedOn": "2026-05-13"
   }
 ]
