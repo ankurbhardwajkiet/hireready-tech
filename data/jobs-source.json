@@ -1,5 +1,23 @@
 [
   {
+    "id": "25afeadc-c8a7-41b2-b7c9-09609308b1db",
+    "title": "SDE Intern",
+    "company": "Swiggy",
+    "companyType": "Internship",
+    "category": "Internship",
+    "location": "India",
+    "experience": "Internship",
+    "skills": [
+      "Java",
+      "Docker",
+      "Cloud",
+      "AWS"
+    ],
+    "postedOn": "2026-05-22",
+    "status": "Open",
+    "applyLink": "https://careers.swiggy.com"
+  },
+  {
     "id": "93a80604-3c68-4aa8-ae63-7916f4d65b46",
     "title": "Software Engineer",
     "company": "Tech Mahindra",
@@ -221,43 +239,5 @@
     "status": "Closed",
     "applyLink": "https://careers.freshworks.com",
     "closedOn": "2026-05-15"
-  },
-  {
-    "id": "5cd31498-be17-4144-80dc-9779bcef204f",
-    "title": "SDE Intern",
-    "company": "Google",
-    "companyType": "Internship",
-    "category": "Internship",
-    "location": "Chennai",
-    "experience": "Internship",
-    "skills": [
-      "Java",
-      "Docker",
-      "Python",
-      "Node.js"
-    ],
-    "postedOn": "2026-04-23",
-    "status": "Closed",
-    "applyLink": "https://careers.google.com",
-    "closedOn": "2026-05-14"
-  },
-  {
-    "id": "ebc604ec-531c-4b63-ba8d-ff436a1d6c8e",
-    "title": "Backend Developer",
-    "company": "Razorpay",
-    "companyType": "Product Based",
-    "category": "Product Based",
-    "location": "Hyderabad",
-    "experience": "1-3 Years",
-    "skills": [
-      "React",
-      "Node.js",
-      "AWS",
-      "Cloud"
-    ],
-    "postedOn": "2026-04-23",
-    "status": "Closed",
-    "applyLink": "https://careers.razorpay.com",
-    "closedOn": "2026-05-14"
   }
 ]
