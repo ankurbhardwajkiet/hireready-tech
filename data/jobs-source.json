@@ -1,5 +1,59 @@
 [
   {
+    "id": "47ccff53-769b-49a2-9b44-a3a97e9665f9",
+    "title": "Backend Developer",
+    "company": "Razorpay",
+    "companyType": "Product Based",
+    "category": "Product Based",
+    "location": "Hyderabad",
+    "experience": "1-3 Years",
+    "skills": [
+      "Data Structures",
+      "Machine Learning",
+      "SQL",
+      "React"
+    ],
+    "postedOn": "2026-05-24",
+    "status": "Open",
+    "applyLink": "https://careers.razorpay.com"
+  },
+  {
+    "id": "d944e30b-fcf7-4664-aa83-dfb05ac93a5b",
+    "title": "Backend Developer",
+    "company": "Freshworks",
+    "companyType": "Product Based",
+    "category": "Product Based",
+    "location": "Hyderabad",
+    "experience": "1-3 Years",
+    "skills": [
+      "Data Structures",
+      "Node.js",
+      "React",
+      "Cloud"
+    ],
+    "postedOn": "2026-05-24",
+    "status": "Open",
+    "applyLink": "https://careers.freshworks.com"
+  },
+  {
+    "id": "ecce1631-0c49-4437-9afe-da8477e5f9bc",
+    "title": "SDE Intern",
+    "company": "Google",
+    "companyType": "Internship",
+    "category": "Internship",
+    "location": "Chennai",
+    "experience": "Internship",
+    "skills": [
+      "AWS",
+      "Cloud",
+      "Java",
+      "Data Structures"
+    ],
+    "postedOn": "2026-05-24",
+    "status": "Open",
+    "applyLink": "https://careers.google.com"
+  },
+  {
     "id": "ac25a9db-1e47-4ed6-bbf3-414ea96a3eb8",
     "title": "Backend Developer",
     "company": "Zoho",
