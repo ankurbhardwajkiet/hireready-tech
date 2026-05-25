@@ -216,43 +216,5 @@
     "status": "Closed",
     "applyLink": "https://careers.flipkart.com",
     "closedOn": "2026-05-19"
-  },
-  {
-    "id": "f1a6ff91-1cdd-456e-9651-6bf6752d6900",
-    "title": "SDE Intern",
-    "company": "PhonePe",
-    "companyType": "Internship",
-    "category": "Internship",
-    "location": "India",
-    "experience": "Internship",
-    "skills": [
-      "Cloud",
-      "Java",
-      "React",
-      "Python"
-    ],
-    "postedOn": "2026-04-26",
-    "status": "Closed",
-    "applyLink": "https://careers.phonepe.com",
-    "closedOn": "2026-05-17"
-  },
-  {
-    "id": "64be0da6-a935-448f-b597-0006514c5e7c",
-    "title": "SDE Intern",
-    "company": "Microsoft",
-    "companyType": "Internship",
-    "category": "Internship",
-    "location": "Remote",
-    "experience": "Internship",
-    "skills": [
-      "Data Structures",
-      "Machine Learning",
-      "Node.js",
-      "Java"
-    ],
-    "postedOn": "2026-04-26",
-    "status": "Closed",
-    "applyLink": "https://careers.microsoft.com",
-    "closedOn": "2026-05-17"
   }
 ]
