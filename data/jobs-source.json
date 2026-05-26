@@ -1,5 +1,41 @@
 [
   {
+    "id": "5e58cd5b-bb0b-46a8-be3d-006504a288e3",
+    "title": "Backend Developer",
+    "company": "Amazon",
+    "companyType": "Product Based",
+    "category": "Product Based",
+    "location": "Remote",
+    "experience": "1-3 Years",
+    "skills": [
+      "Docker",
+      "Java",
+      "Python",
+      "Data Structures"
+    ],
+    "postedOn": "2026-05-26",
+    "status": "Open",
+    "applyLink": "https://careers.amazon.com"
+  },
+  {
+    "id": "e93afc4d-0d12-41c5-b64b-ab8e0f635273",
+    "title": "SDE Intern",
+    "company": "Microsoft",
+    "companyType": "Internship",
+    "category": "Internship",
+    "location": "Remote",
+    "experience": "Internship",
+    "skills": [
+      "SQL",
+      "React",
+      "Machine Learning",
+      "Python"
+    ],
+    "postedOn": "2026-05-26",
+    "status": "Open",
+    "applyLink": "https://careers.microsoft.com"
+  },
+  {
     "id": "47ccff53-769b-49a2-9b44-a3a97e9665f9",
     "title": "Backend Developer",
     "company": "Razorpay",
