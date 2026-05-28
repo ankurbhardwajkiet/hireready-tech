@@ -1,5 +1,23 @@
 [
   {
+    "id": "fcf19749-7a50-4cb9-bcca-0715229249e3",
+    "title": "SDE Intern",
+    "company": "Paytm",
+    "companyType": "Internship",
+    "category": "Internship",
+    "location": "Remote",
+    "experience": "Internship",
+    "skills": [
+      "Python",
+      "Data Structures",
+      "Docker",
+      "Node.js"
+    ],
+    "postedOn": "2026-05-28",
+    "status": "Open",
+    "applyLink": "https://careers.paytm.com"
+  },
+  {
     "id": "6b3dd757-eb94-41d9-a3b3-a025a6661038",
     "title": "SDE Intern",
     "company": "PhonePe",
@@ -230,26 +248,8 @@
       "Node.js"
     ],
     "postedOn": "2026-05-02",
-    "status": "Open",
-    "applyLink": "https://careers.wipro.com"
-  },
-  {
-    "id": "15729b03-c658-4e01-bfa5-3e520d120030",
-    "title": "SDE Intern",
-    "company": "Paytm",
-    "companyType": "Internship",
-    "category": "Internship",
-    "location": "Chennai",
-    "experience": "Internship",
-    "skills": [
-      "Python",
-      "Data Structures",
-      "Machine Learning",
-      "SQL"
-    ],
-    "postedOn": "2026-04-29",
     "status": "Closed",
-    "applyLink": "https://careers.paytm.com",
-    "closedOn": "2026-05-20"
+    "applyLink": "https://careers.wipro.com",
+    "closedOn": "2026-05-28"
   }
 ]
