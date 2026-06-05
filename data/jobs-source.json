@@ -254,24 +254,5 @@
     "status": "Closed",
     "applyLink": "https://careers.infosys.com",
     "closedOn": "2026-05-30"
-  },
-  {
-    "id": "58f32cdf-0eec-4961-b971-9b262c397d00",
-    "title": "Software Engineer",
-    "company": "Wipro",
-    "companyType": "Mass Recruiter",
-    "category": "Mass Recruiter",
-    "location": "Remote",
-    "experience": "0-2 Years",
-    "skills": [
-      "Data Structures",
-      "Python",
-      "Cloud",
-      "Node.js"
-    ],
-    "postedOn": "2026-05-02",
-    "status": "Closed",
-    "applyLink": "https://careers.wipro.com",
-    "closedOn": "2026-05-28"
   }
 ]
