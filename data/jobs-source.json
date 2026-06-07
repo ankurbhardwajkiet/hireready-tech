@@ -1,5 +1,41 @@
 [
   {
+    "id": "364f1cc0-0adf-452d-9860-f5777419d4f2",
+    "title": "Software Engineer",
+    "company": "Infosys",
+    "companyType": "Mass Recruiter",
+    "category": "Mass Recruiter",
+    "location": "India",
+    "experience": "0-2 Years",
+    "skills": [
+      "Java",
+      "React",
+      "Machine Learning",
+      "Data Structures"
+    ],
+    "postedOn": "2026-06-07",
+    "status": "Open",
+    "applyLink": "https://careers.infosys.com"
+  },
+  {
+    "id": "6e47bceb-ffd0-4db7-8364-17391b50c104",
+    "title": "Software Engineer",
+    "company": "TCS",
+    "companyType": "Mass Recruiter",
+    "category": "Mass Recruiter",
+    "location": "Chennai",
+    "experience": "0-2 Years",
+    "skills": [
+      "SQL",
+      "Cloud",
+      "Machine Learning",
+      "AWS"
+    ],
+    "postedOn": "2026-06-07",
+    "status": "Open",
+    "applyLink": "https://careers.tcs.com"
+  },
+  {
     "id": "7da25724-d920-4a7f-89b0-139226d1198c",
     "title": "Backend Developer",
     "company": "Flipkart",
@@ -216,43 +252,5 @@
     "status": "Closed",
     "applyLink": "https://careers.hcl.com",
     "closedOn": "2026-06-01"
-  },
-  {
-    "id": "ffe19b06-3193-47ac-8fd3-d3924afdfd44",
-    "title": "Software Engineer",
-    "company": "TCS",
-    "companyType": "Mass Recruiter",
-    "category": "Mass Recruiter",
-    "location": "India",
-    "experience": "0-2 Years",
-    "skills": [
-      "Node.js",
-      "SQL",
-      "Machine Learning",
-      "Python"
-    ],
-    "postedOn": "2026-05-04",
-    "status": "Closed",
-    "applyLink": "https://careers.tcs.com",
-    "closedOn": "2026-05-30"
-  },
-  {
-    "id": "54171e05-8f15-4b14-b09b-4134e66b8bc2",
-    "title": "Software Engineer",
-    "company": "Infosys",
-    "companyType": "Mass Recruiter",
-    "category": "Mass Recruiter",
-    "location": "Hyderabad",
-    "experience": "0-2 Years",
-    "skills": [
-      "Machine Learning",
-      "SQL",
-      "Data Structures",
-      "AWS"
-    ],
-    "postedOn": "2026-05-04",
-    "status": "Closed",
-    "applyLink": "https://careers.infosys.com",
-    "closedOn": "2026-05-30"
   }
 ]
