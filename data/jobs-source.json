@@ -1,5 +1,23 @@
 [
   {
+    "id": "40270c61-1dc1-43ef-80cf-a1e2c5a0b01d",
+    "title": "Software Engineer",
+    "company": "HCL",
+    "companyType": "Mass Recruiter",
+    "category": "Mass Recruiter",
+    "location": "Hyderabad",
+    "experience": "0-2 Years",
+    "skills": [
+      "Docker",
+      "Data Structures",
+      "Python",
+      "Cloud"
+    ],
+    "postedOn": "2026-06-09",
+    "status": "Open",
+    "applyLink": "https://careers.hcl.com"
+  },
+  {
     "id": "364f1cc0-0adf-452d-9860-f5777419d4f2",
     "title": "Software Engineer",
     "company": "Infosys",
@@ -233,24 +251,5 @@
     "status": "Closed",
     "applyLink": "https://careers.techmahindra.com",
     "closedOn": "2026-06-03"
-  },
-  {
-    "id": "d0c34a6b-d4ac-4abf-8ff2-41ef92f9503b",
-    "title": "Software Engineer",
-    "company": "HCL",
-    "companyType": "Mass Recruiter",
-    "category": "Mass Recruiter",
-    "location": "India",
-    "experience": "0-2 Years",
-    "skills": [
-      "Java",
-      "Data Structures",
-      "Machine Learning",
-      "AWS"
-    ],
-    "postedOn": "2026-05-06",
-    "status": "Closed",
-    "applyLink": "https://careers.hcl.com",
-    "closedOn": "2026-06-01"
   }
 ]
