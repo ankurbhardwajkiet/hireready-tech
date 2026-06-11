@@ -232,24 +232,5 @@
     "postedOn": "2026-05-22",
     "status": "Open",
     "applyLink": "https://careers.swiggy.com"
-  },
-  {
-    "id": "93a80604-3c68-4aa8-ae63-7916f4d65b46",
-    "title": "Software Engineer",
-    "company": "Tech Mahindra",
-    "companyType": "Mass Recruiter",
-    "category": "Mass Recruiter",
-    "location": "Bangalore",
-    "experience": "0-2 Years",
-    "skills": [
-      "Python",
-      "React",
-      "SQL",
-      "Cloud"
-    ],
-    "postedOn": "2026-05-08",
-    "status": "Closed",
-    "applyLink": "https://careers.techmahindra.com",
-    "closedOn": "2026-06-03"
   }
 ]
