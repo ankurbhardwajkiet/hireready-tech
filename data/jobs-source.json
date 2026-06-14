@@ -1,5 +1,41 @@
 [
   {
+    "id": "c2b8063c-7152-4e94-9296-06db7e4cda06",
+    "title": "Software Engineer",
+    "company": "Tech Mahindra",
+    "companyType": "Mass Recruiter",
+    "category": "Mass Recruiter",
+    "location": "Remote",
+    "experience": "0-2 Years",
+    "skills": [
+      "Java",
+      "Data Structures",
+      "Docker",
+      "Node.js"
+    ],
+    "postedOn": "2026-06-14",
+    "status": "Open",
+    "applyLink": "https://careers.techmahindra.com"
+  },
+  {
+    "id": "40faa369-bc68-4f40-ab99-4277a9291cae",
+    "title": "Software Engineer",
+    "company": "Wipro",
+    "companyType": "Mass Recruiter",
+    "category": "Mass Recruiter",
+    "location": "Remote",
+    "experience": "0-2 Years",
+    "skills": [
+      "Cloud",
+      "Node.js",
+      "AWS",
+      "Data Structures"
+    ],
+    "postedOn": "2026-06-14",
+    "status": "Open",
+    "applyLink": "https://careers.wipro.com"
+  },
+  {
     "id": "40270c61-1dc1-43ef-80cf-a1e2c5a0b01d",
     "title": "Software Engineer",
     "company": "HCL",
@@ -158,8 +194,9 @@
       "React"
     ],
     "postedOn": "2026-05-24",
-    "status": "Open",
-    "applyLink": "https://careers.razorpay.com"
+    "status": "Closed",
+    "applyLink": "https://careers.razorpay.com",
+    "closedOn": "2026-06-14"
   },
   {
     "id": "d944e30b-fcf7-4664-aa83-dfb05ac93a5b",
@@ -176,8 +213,9 @@
       "Cloud"
     ],
     "postedOn": "2026-05-24",
-    "status": "Open",
-    "applyLink": "https://careers.freshworks.com"
+    "status": "Closed",
+    "applyLink": "https://careers.freshworks.com",
+    "closedOn": "2026-06-14"
   },
   {
     "id": "ecce1631-0c49-4437-9afe-da8477e5f9bc",
@@ -194,8 +232,9 @@
       "Data Structures"
     ],
     "postedOn": "2026-05-24",
-    "status": "Open",
-    "applyLink": "https://careers.google.com"
+    "status": "Closed",
+    "applyLink": "https://careers.google.com",
+    "closedOn": "2026-06-14"
   },
   {
     "id": "ac25a9db-1e47-4ed6-bbf3-414ea96a3eb8",
