@@ -259,24 +259,5 @@
     "status": "Closed",
     "applyLink": "https://careers.zoho.com",
     "closedOn": "2026-06-13"
-  },
-  {
-    "id": "25afeadc-c8a7-41b2-b7c9-09609308b1db",
-    "title": "SDE Intern",
-    "company": "Swiggy",
-    "companyType": "Internship",
-    "category": "Internship",
-    "location": "India",
-    "experience": "Internship",
-    "skills": [
-      "Java",
-      "Docker",
-      "Cloud",
-      "AWS"
-    ],
-    "postedOn": "2026-05-22",
-    "status": "Closed",
-    "applyLink": "https://careers.swiggy.com",
-    "closedOn": "2026-06-12"
   }
 ]
