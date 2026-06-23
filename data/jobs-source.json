@@ -1,5 +1,23 @@
 [
   {
+    "id": "066d9eb3-e7ed-48ff-b827-e87ae6a38f14",
+    "title": "Backend Developer",
+    "company": "Zoho",
+    "companyType": "Product Based",
+    "category": "Product Based",
+    "location": "Remote",
+    "experience": "1-3 Years",
+    "skills": [
+      "Node.js",
+      "SQL",
+      "Java",
+      "AWS"
+    ],
+    "postedOn": "2026-06-23",
+    "status": "Open",
+    "applyLink": "https://careers.zoho.com"
+  },
+  {
     "id": "2794198f-16bf-452f-8c1a-d99ad30ea565",
     "title": "Backend Developer",
     "company": "Razorpay",
