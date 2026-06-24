@@ -1,5 +1,41 @@
 [
   {
+    "id": "d651afdb-75b0-4a95-80f4-3e815a7b58ee",
+    "title": "Backend Developer",
+    "company": "Amazon",
+    "companyType": "Product Based",
+    "category": "Product Based",
+    "location": "Chennai",
+    "experience": "1-3 Years",
+    "skills": [
+      "SQL",
+      "AWS",
+      "Docker",
+      "Cloud"
+    ],
+    "postedOn": "2026-06-24",
+    "status": "Open",
+    "applyLink": "https://careers.amazon.com"
+  },
+  {
+    "id": "e82f041d-ddd4-4137-835b-0486c645980b",
+    "title": "SDE Intern",
+    "company": "Microsoft",
+    "companyType": "Internship",
+    "category": "Internship",
+    "location": "Hyderabad",
+    "experience": "Internship",
+    "skills": [
+      "AWS",
+      "Docker",
+      "Node.js",
+      "Data Structures"
+    ],
+    "postedOn": "2026-06-24",
+    "status": "Open",
+    "applyLink": "https://careers.microsoft.com"
+  },
+  {
     "id": "066d9eb3-e7ed-48ff-b827-e87ae6a38f14",
     "title": "Backend Developer",
     "company": "Zoho",
@@ -235,43 +271,5 @@
     "status": "Closed",
     "applyLink": "https://careers.phonepe.com",
     "closedOn": "2026-06-17"
-  },
-  {
-    "id": "5e58cd5b-bb0b-46a8-be3d-006504a288e3",
-    "title": "Backend Developer",
-    "company": "Amazon",
-    "companyType": "Product Based",
-    "category": "Product Based",
-    "location": "Remote",
-    "experience": "1-3 Years",
-    "skills": [
-      "Docker",
-      "Java",
-      "Python",
-      "Data Structures"
-    ],
-    "postedOn": "2026-05-26",
-    "status": "Closed",
-    "applyLink": "https://careers.amazon.com",
-    "closedOn": "2026-06-16"
-  },
-  {
-    "id": "e93afc4d-0d12-41c5-b64b-ab8e0f635273",
-    "title": "SDE Intern",
-    "company": "Microsoft",
-    "companyType": "Internship",
-    "category": "Internship",
-    "location": "Remote",
-    "experience": "Internship",
-    "skills": [
-      "SQL",
-      "React",
-      "Machine Learning",
-      "Python"
-    ],
-    "postedOn": "2026-05-26",
-    "status": "Closed",
-    "applyLink": "https://careers.microsoft.com",
-    "closedOn": "2026-06-16"
   }
 ]
