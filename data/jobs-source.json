@@ -1,5 +1,23 @@
 [
   {
+    "id": "ff0e4744-d9d4-43e1-86d3-c9467aee2685",
+    "title": "SDE Intern",
+    "company": "PhonePe",
+    "companyType": "Internship",
+    "category": "Internship",
+    "location": "Chennai",
+    "experience": "Internship",
+    "skills": [
+      "Docker",
+      "Data Structures",
+      "React",
+      "SQL"
+    ],
+    "postedOn": "2026-06-25",
+    "status": "Open",
+    "applyLink": "https://careers.phonepe.com"
+  },
+  {
     "id": "d651afdb-75b0-4a95-80f4-3e815a7b58ee",
     "title": "Backend Developer",
     "company": "Amazon",
@@ -252,24 +270,5 @@
     "status": "Closed",
     "applyLink": "https://careers.paytm.com",
     "closedOn": "2026-06-18"
-  },
-  {
-    "id": "6b3dd757-eb94-41d9-a3b3-a025a6661038",
-    "title": "SDE Intern",
-    "company": "PhonePe",
-    "companyType": "Internship",
-    "category": "Internship",
-    "location": "Hyderabad",
-    "experience": "Internship",
-    "skills": [
-      "Java",
-      "Data Structures",
-      "Python",
-      "SQL"
-    ],
-    "postedOn": "2026-05-27",
-    "status": "Closed",
-    "applyLink": "https://careers.phonepe.com",
-    "closedOn": "2026-06-17"
   }
 ]
