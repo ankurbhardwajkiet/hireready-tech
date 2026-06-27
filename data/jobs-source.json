@@ -1,5 +1,23 @@
 [
   {
+    "id": "c2bc8283-85c2-446d-8b67-a95e57b6cb87",
+    "title": "Backend Developer",
+    "company": "Flipkart",
+    "companyType": "Product Based",
+    "category": "Product Based",
+    "location": "India",
+    "experience": "1-3 Years",
+    "skills": [
+      "Data Structures",
+      "Python",
+      "Java",
+      "Machine Learning"
+    ],
+    "postedOn": "2026-06-27",
+    "status": "Open",
+    "applyLink": "https://careers.flipkart.com"
+  },
+  {
     "id": "ff0e4744-d9d4-43e1-86d3-c9467aee2685",
     "title": "SDE Intern",
     "company": "PhonePe",
@@ -232,24 +250,5 @@
     "postedOn": "2026-06-07",
     "status": "Open",
     "applyLink": "https://careers.tcs.com"
-  },
-  {
-    "id": "7da25724-d920-4a7f-89b0-139226d1198c",
-    "title": "Backend Developer",
-    "company": "Flipkart",
-    "companyType": "Product Based",
-    "category": "Product Based",
-    "location": "Remote",
-    "experience": "1-3 Years",
-    "skills": [
-      "Cloud",
-      "Machine Learning",
-      "Docker",
-      "Python"
-    ],
-    "postedOn": "2026-05-29",
-    "status": "Closed",
-    "applyLink": "https://careers.flipkart.com",
-    "closedOn": "2026-06-19"
   }
 ]
