@@ -230,8 +230,9 @@
       "Data Structures"
     ],
     "postedOn": "2026-06-07",
-    "status": "Open",
-    "applyLink": "https://careers.infosys.com"
+    "status": "Closed",
+    "applyLink": "https://careers.infosys.com",
+    "closedOn": "2026-07-03"
   },
   {
     "id": "6e47bceb-ffd0-4db7-8364-17391b50c104",
@@ -248,7 +249,8 @@
       "AWS"
     ],
     "postedOn": "2026-06-07",
-    "status": "Open",
-    "applyLink": "https://careers.tcs.com"
+    "status": "Closed",
+    "applyLink": "https://careers.tcs.com",
+    "closedOn": "2026-07-03"
   }
 ]
