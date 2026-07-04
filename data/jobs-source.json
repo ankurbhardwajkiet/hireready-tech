@@ -1,5 +1,23 @@
 [
   {
+    "id": "eeeaf5c0-5b4c-4113-b740-be3f6ed201aa",
+    "title": "SDE Intern",
+    "company": "Paytm",
+    "companyType": "Internship",
+    "category": "Internship",
+    "location": "Remote",
+    "experience": "Internship",
+    "skills": [
+      "Python",
+      "Machine Learning",
+      "React",
+      "Cloud"
+    ],
+    "postedOn": "2026-07-04",
+    "status": "Open",
+    "applyLink": "https://careers.paytm.com"
+  },
+  {
     "id": "c2bc8283-85c2-446d-8b67-a95e57b6cb87",
     "title": "Backend Developer",
     "company": "Flipkart",
