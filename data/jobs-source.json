@@ -1,5 +1,23 @@
 [
   {
+    "id": "9a02702f-c2a4-43d6-b989-cfb7b252e5f9",
+    "title": "Software Engineer",
+    "company": "Infosys",
+    "companyType": "Mass Recruiter",
+    "category": "Mass Recruiter",
+    "location": "Bangalore",
+    "experience": "0-2 Years",
+    "skills": [
+      "Java",
+      "Node.js",
+      "Data Structures",
+      "Docker"
+    ],
+    "postedOn": "2026-07-11",
+    "status": "Open",
+    "applyLink": "https://careers.infosys.com"
+  },
+  {
     "id": "eeeaf5c0-5b4c-4113-b740-be3f6ed201aa",
     "title": "SDE Intern",
     "company": "Paytm",
@@ -235,43 +253,5 @@
     "status": "Closed",
     "applyLink": "https://careers.hcl.com",
     "closedOn": "2026-07-05"
-  },
-  {
-    "id": "364f1cc0-0adf-452d-9860-f5777419d4f2",
-    "title": "Software Engineer",
-    "company": "Infosys",
-    "companyType": "Mass Recruiter",
-    "category": "Mass Recruiter",
-    "location": "India",
-    "experience": "0-2 Years",
-    "skills": [
-      "Java",
-      "React",
-      "Machine Learning",
-      "Data Structures"
-    ],
-    "postedOn": "2026-06-07",
-    "status": "Closed",
-    "applyLink": "https://careers.infosys.com",
-    "closedOn": "2026-07-03"
-  },
-  {
-    "id": "6e47bceb-ffd0-4db7-8364-17391b50c104",
-    "title": "Software Engineer",
-    "company": "TCS",
-    "companyType": "Mass Recruiter",
-    "category": "Mass Recruiter",
-    "location": "Chennai",
-    "experience": "0-2 Years",
-    "skills": [
-      "SQL",
-      "Cloud",
-      "Machine Learning",
-      "AWS"
-    ],
-    "postedOn": "2026-06-07",
-    "status": "Closed",
-    "applyLink": "https://careers.tcs.com",
-    "closedOn": "2026-07-03"
   }
 ]
