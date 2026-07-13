@@ -1,5 +1,23 @@
 [
   {
+    "id": "bee4272f-1e83-4a67-a167-4a53b8c60171",
+    "title": "Software Engineer",
+    "company": "TCS",
+    "companyType": "Mass Recruiter",
+    "category": "Mass Recruiter",
+    "location": "India",
+    "experience": "0-2 Years",
+    "skills": [
+      "Cloud",
+      "SQL",
+      "Data Structures",
+      "Python"
+    ],
+    "postedOn": "2026-07-13",
+    "status": "Open",
+    "applyLink": "https://careers.tcs.com"
+  },
+  {
     "id": "9a02702f-c2a4-43d6-b989-cfb7b252e5f9",
     "title": "Software Engineer",
     "company": "Infosys",
@@ -140,8 +158,9 @@
       "React"
     ],
     "postedOn": "2026-06-22",
-    "status": "Open",
-    "applyLink": "https://careers.razorpay.com"
+    "status": "Closed",
+    "applyLink": "https://careers.razorpay.com",
+    "closedOn": "2026-07-13"
   },
   {
     "id": "bbc0a3e7-5221-41b8-ac18-a92235ef990b",
@@ -158,8 +177,9 @@
       "Docker"
     ],
     "postedOn": "2026-06-22",
-    "status": "Open",
-    "applyLink": "https://careers.google.com"
+    "status": "Closed",
+    "applyLink": "https://careers.google.com",
+    "closedOn": "2026-07-13"
   },
   {
     "id": "33c58a8e-1102-4262-8b80-56f79f48ef5d",
@@ -176,8 +196,9 @@
       "Python"
     ],
     "postedOn": "2026-06-22",
-    "status": "Open",
-    "applyLink": "https://careers.freshworks.com"
+    "status": "Closed",
+    "applyLink": "https://careers.freshworks.com",
+    "closedOn": "2026-07-13"
   },
   {
     "id": "2d849c1f-5350-4865-be57-ab13b1b39946",
@@ -235,24 +256,5 @@
     "status": "Closed",
     "applyLink": "https://careers.wipro.com",
     "closedOn": "2026-07-10"
-  },
-  {
-    "id": "40270c61-1dc1-43ef-80cf-a1e2c5a0b01d",
-    "title": "Software Engineer",
-    "company": "HCL",
-    "companyType": "Mass Recruiter",
-    "category": "Mass Recruiter",
-    "location": "Hyderabad",
-    "experience": "0-2 Years",
-    "skills": [
-      "Docker",
-      "Data Structures",
-      "Python",
-      "Cloud"
-    ],
-    "postedOn": "2026-06-09",
-    "status": "Closed",
-    "applyLink": "https://careers.hcl.com",
-    "closedOn": "2026-07-05"
   }
 ]
