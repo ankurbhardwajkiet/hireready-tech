@@ -104,8 +104,9 @@
       "Cloud"
     ],
     "postedOn": "2026-06-24",
-    "status": "Open",
-    "applyLink": "https://careers.amazon.com"
+    "status": "Closed",
+    "applyLink": "https://careers.amazon.com",
+    "closedOn": "2026-07-15"
   },
   {
     "id": "e82f041d-ddd4-4137-835b-0486c645980b",
@@ -122,8 +123,9 @@
       "Data Structures"
     ],
     "postedOn": "2026-06-24",
-    "status": "Open",
-    "applyLink": "https://careers.microsoft.com"
+    "status": "Closed",
+    "applyLink": "https://careers.microsoft.com",
+    "closedOn": "2026-07-15"
   },
   {
     "id": "066d9eb3-e7ed-48ff-b827-e87ae6a38f14",
