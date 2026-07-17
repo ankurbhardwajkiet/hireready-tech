@@ -1,5 +1,23 @@
 [
   {
+    "id": "45976202-598a-4db7-be91-6ecc19aa1860",
+    "title": "Software Engineer",
+    "company": "HCL",
+    "companyType": "Mass Recruiter",
+    "category": "Mass Recruiter",
+    "location": "Remote",
+    "experience": "0-2 Years",
+    "skills": [
+      "React",
+      "Data Structures",
+      "AWS",
+      "Python"
+    ],
+    "postedOn": "2026-07-17",
+    "status": "Open",
+    "applyLink": "https://careers.hcl.com"
+  },
+  {
     "id": "bee4272f-1e83-4a67-a167-4a53b8c60171",
     "title": "Software Engineer",
     "company": "TCS",
