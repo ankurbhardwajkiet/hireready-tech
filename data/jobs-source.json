@@ -1,5 +1,23 @@
 [
   {
+    "id": "1eff9a7b-a3a5-4c3c-bdad-9891e4870ae9",
+    "title": "Software Engineer",
+    "company": "Tech Mahindra",
+    "companyType": "Mass Recruiter",
+    "category": "Mass Recruiter",
+    "location": "Bangalore",
+    "experience": "0-2 Years",
+    "skills": [
+      "Node.js",
+      "Data Structures",
+      "Docker",
+      "React"
+    ],
+    "postedOn": "2026-07-18",
+    "status": "Open",
+    "applyLink": "https://careers.techmahindra.com"
+  },
+  {
     "id": "45976202-598a-4db7-be91-6ecc19aa1860",
     "title": "Software Engineer",
     "company": "HCL",
@@ -86,8 +104,9 @@
       "Machine Learning"
     ],
     "postedOn": "2026-06-27",
-    "status": "Open",
-    "applyLink": "https://careers.flipkart.com"
+    "status": "Closed",
+    "applyLink": "https://careers.flipkart.com",
+    "closedOn": "2026-07-18"
   },
   {
     "id": "ff0e4744-d9d4-43e1-86d3-c9467aee2685",
@@ -240,43 +259,5 @@
     "status": "Closed",
     "applyLink": "https://careers.swiggy.com",
     "closedOn": "2026-07-12"
-  },
-  {
-    "id": "c2b8063c-7152-4e94-9296-06db7e4cda06",
-    "title": "Software Engineer",
-    "company": "Tech Mahindra",
-    "companyType": "Mass Recruiter",
-    "category": "Mass Recruiter",
-    "location": "Remote",
-    "experience": "0-2 Years",
-    "skills": [
-      "Java",
-      "Data Structures",
-      "Docker",
-      "Node.js"
-    ],
-    "postedOn": "2026-06-14",
-    "status": "Closed",
-    "applyLink": "https://careers.techmahindra.com",
-    "closedOn": "2026-07-10"
-  },
-  {
-    "id": "40faa369-bc68-4f40-ab99-4277a9291cae",
-    "title": "Software Engineer",
-    "company": "Wipro",
-    "companyType": "Mass Recruiter",
-    "category": "Mass Recruiter",
-    "location": "Remote",
-    "experience": "0-2 Years",
-    "skills": [
-      "Cloud",
-      "Node.js",
-      "AWS",
-      "Data Structures"
-    ],
-    "postedOn": "2026-06-14",
-    "status": "Closed",
-    "applyLink": "https://careers.wipro.com",
-    "closedOn": "2026-07-10"
   }
 ]
