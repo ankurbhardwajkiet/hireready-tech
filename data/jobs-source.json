@@ -1,5 +1,23 @@
 [
   {
+    "id": "3f72c46a-ff83-4178-8d1d-54ea17e08c11",
+    "title": "Software Engineer",
+    "company": "Wipro",
+    "companyType": "Mass Recruiter",
+    "category": "Mass Recruiter",
+    "location": "India",
+    "experience": "0-2 Years",
+    "skills": [
+      "React",
+      "Machine Learning",
+      "Node.js",
+      "SQL"
+    ],
+    "postedOn": "2026-07-19",
+    "status": "Open",
+    "applyLink": "https://careers.wipro.com"
+  },
+  {
     "id": "1eff9a7b-a3a5-4c3c-bdad-9891e4870ae9",
     "title": "Software Engineer",
     "company": "Tech Mahindra",
