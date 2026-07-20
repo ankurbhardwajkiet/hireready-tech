@@ -1,5 +1,23 @@
 [
   {
+    "id": "68cc9cd4-8f44-415d-9fae-5a7bae32452f",
+    "title": "SDE Intern",
+    "company": "Swiggy",
+    "companyType": "Internship",
+    "category": "Internship",
+    "location": "India",
+    "experience": "Internship",
+    "skills": [
+      "Data Structures",
+      "Cloud",
+      "AWS",
+      "SQL"
+    ],
+    "postedOn": "2026-07-20",
+    "status": "Open",
+    "applyLink": "https://careers.swiggy.com"
+  },
+  {
     "id": "3f72c46a-ff83-4178-8d1d-54ea17e08c11",
     "title": "Software Engineer",
     "company": "Wipro",
@@ -258,24 +276,5 @@
     "status": "Closed",
     "applyLink": "https://careers.freshworks.com",
     "closedOn": "2026-07-13"
-  },
-  {
-    "id": "2d849c1f-5350-4865-be57-ab13b1b39946",
-    "title": "SDE Intern",
-    "company": "Swiggy",
-    "companyType": "Internship",
-    "category": "Internship",
-    "location": "Remote",
-    "experience": "Internship",
-    "skills": [
-      "Cloud",
-      "Machine Learning",
-      "Node.js",
-      "AWS"
-    ],
-    "postedOn": "2026-06-21",
-    "status": "Closed",
-    "applyLink": "https://careers.swiggy.com",
-    "closedOn": "2026-07-12"
   }
 ]
