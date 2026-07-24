@@ -1,5 +1,41 @@
 [
   {
+    "id": "8d21b736-8471-4ad0-ae10-670ad833e6f9",
+    "title": "SDE Intern",
+    "company": "PhonePe",
+    "companyType": "Internship",
+    "category": "Internship",
+    "location": "Remote",
+    "experience": "Internship",
+    "skills": [
+      "AWS",
+      "Machine Learning",
+      "Python",
+      "Node.js"
+    ],
+    "postedOn": "2026-07-24",
+    "status": "Open",
+    "applyLink": "https://careers.phonepe.com"
+  },
+  {
+    "id": "ab769938-ace5-43dd-9d8a-2accc7bdab6b",
+    "title": "Backend Developer",
+    "company": "Razorpay",
+    "companyType": "Product Based",
+    "category": "Product Based",
+    "location": "Bangalore",
+    "experience": "1-3 Years",
+    "skills": [
+      "Python",
+      "Cloud",
+      "AWS",
+      "React"
+    ],
+    "postedOn": "2026-07-24",
+    "status": "Open",
+    "applyLink": "https://careers.razorpay.com"
+  },
+  {
     "id": "50234472-5b7a-4bf1-a66d-0d319b238550",
     "title": "Backend Developer",
     "company": "Amazon",
@@ -233,24 +269,5 @@
     "status": "Closed",
     "applyLink": "https://careers.flipkart.com",
     "closedOn": "2026-07-18"
-  },
-  {
-    "id": "ff0e4744-d9d4-43e1-86d3-c9467aee2685",
-    "title": "SDE Intern",
-    "company": "PhonePe",
-    "companyType": "Internship",
-    "category": "Internship",
-    "location": "Chennai",
-    "experience": "Internship",
-    "skills": [
-      "Docker",
-      "Data Structures",
-      "React",
-      "SQL"
-    ],
-    "postedOn": "2026-06-25",
-    "status": "Closed",
-    "applyLink": "https://careers.phonepe.com",
-    "closedOn": "2026-07-16"
   }
 ]
