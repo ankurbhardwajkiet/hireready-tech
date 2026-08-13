@@ -86,8 +86,9 @@
       "Docker"
     ],
     "postedOn": "2026-07-23",
-    "status": "Open",
-    "applyLink": "https://careers.amazon.com"
+    "status": "Closed",
+    "applyLink": "https://careers.amazon.com",
+    "closedOn": "2026-08-13"
   },
   {
     "id": "edc81fcf-8ba5-4bc7-b31e-83f1917f2cdd",
@@ -104,8 +105,9 @@
       "Python"
     ],
     "postedOn": "2026-07-23",
-    "status": "Open",
-    "applyLink": "https://careers.microsoft.com"
+    "status": "Closed",
+    "applyLink": "https://careers.microsoft.com",
+    "closedOn": "2026-08-13"
   },
   {
     "id": "ea3e1ce8-9f54-4ffd-be22-f98407f07165",
@@ -216,8 +218,9 @@
       "React"
     ],
     "postedOn": "2026-07-18",
-    "status": "Open",
-    "applyLink": "https://careers.techmahindra.com"
+    "status": "Closed",
+    "applyLink": "https://careers.techmahindra.com",
+    "closedOn": "2026-08-13"
   },
   {
     "id": "45976202-598a-4db7-be91-6ecc19aa1860",
