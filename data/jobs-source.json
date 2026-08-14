@@ -50,8 +50,9 @@
       "Node.js"
     ],
     "postedOn": "2026-07-24",
-    "status": "Open",
-    "applyLink": "https://careers.phonepe.com"
+    "status": "Closed",
+    "applyLink": "https://careers.phonepe.com",
+    "closedOn": "2026-08-14"
   },
   {
     "id": "ab769938-ace5-43dd-9d8a-2accc7bdab6b",
@@ -68,8 +69,9 @@
       "React"
     ],
     "postedOn": "2026-07-24",
-    "status": "Open",
-    "applyLink": "https://careers.razorpay.com"
+    "status": "Closed",
+    "applyLink": "https://careers.razorpay.com",
+    "closedOn": "2026-08-14"
   },
   {
     "id": "50234472-5b7a-4bf1-a66d-0d319b238550",
@@ -200,8 +202,9 @@
       "SQL"
     ],
     "postedOn": "2026-07-19",
-    "status": "Open",
-    "applyLink": "https://careers.wipro.com"
+    "status": "Closed",
+    "applyLink": "https://careers.wipro.com",
+    "closedOn": "2026-08-14"
   },
   {
     "id": "1eff9a7b-a3a5-4c3c-bdad-9891e4870ae9",
@@ -259,24 +262,5 @@
     "status": "Closed",
     "applyLink": "https://careers.tcs.com",
     "closedOn": "2026-08-08"
-  },
-  {
-    "id": "9a02702f-c2a4-43d6-b989-cfb7b252e5f9",
-    "title": "Software Engineer",
-    "company": "Infosys",
-    "companyType": "Mass Recruiter",
-    "category": "Mass Recruiter",
-    "location": "Bangalore",
-    "experience": "0-2 Years",
-    "skills": [
-      "Java",
-      "Node.js",
-      "Data Structures",
-      "Docker"
-    ],
-    "postedOn": "2026-07-11",
-    "status": "Closed",
-    "applyLink": "https://careers.infosys.com",
-    "closedOn": "2026-08-06"
   }
 ]
