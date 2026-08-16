@@ -32,8 +32,9 @@
       "Python"
     ],
     "postedOn": "2026-07-26",
-    "status": "Open",
-    "applyLink": "https://careers.flipkart.com"
+    "status": "Closed",
+    "applyLink": "https://careers.flipkart.com",
+    "closedOn": "2026-08-16"
   },
   {
     "id": "8d21b736-8471-4ad0-ae10-670ad833e6f9",
@@ -243,24 +244,5 @@
     "status": "Closed",
     "applyLink": "https://careers.hcl.com",
     "closedOn": "2026-08-12"
-  },
-  {
-    "id": "bee4272f-1e83-4a67-a167-4a53b8c60171",
-    "title": "Software Engineer",
-    "company": "TCS",
-    "companyType": "Mass Recruiter",
-    "category": "Mass Recruiter",
-    "location": "India",
-    "experience": "0-2 Years",
-    "skills": [
-      "Cloud",
-      "SQL",
-      "Data Structures",
-      "Python"
-    ],
-    "postedOn": "2026-07-13",
-    "status": "Closed",
-    "applyLink": "https://careers.tcs.com",
-    "closedOn": "2026-08-08"
   }
 ]
