@@ -1,5 +1,41 @@
 [
   {
+    "id": "b4ba88d1-f4d2-4fe0-979b-cc625ec7437f",
+    "title": "Software Engineer",
+    "company": "TCS",
+    "companyType": "Mass Recruiter",
+    "category": "Mass Recruiter",
+    "location": "Hyderabad",
+    "experience": "0-2 Years",
+    "skills": [
+      "Docker",
+      "React",
+      "Machine Learning",
+      "Cloud"
+    ],
+    "postedOn": "2026-08-18",
+    "status": "Open",
+    "applyLink": "https://careers.tcs.com"
+  },
+  {
+    "id": "c7f23443-4e9f-4484-b912-d12d75a9e6ab",
+    "title": "SDE Intern",
+    "company": "Swiggy",
+    "companyType": "Internship",
+    "category": "Internship",
+    "location": "Hyderabad",
+    "experience": "Internship",
+    "skills": [
+      "React",
+      "AWS",
+      "Docker",
+      "Node.js"
+    ],
+    "postedOn": "2026-08-18",
+    "status": "Open",
+    "applyLink": "https://careers.swiggy.com"
+  },
+  {
     "id": "f88a6ab7-7889-428d-8020-c6e9bd1a7b10",
     "title": "Software Engineer",
     "company": "Infosys",
@@ -186,25 +222,6 @@
     "status": "Closed",
     "applyLink": "https://careers.google.com",
     "closedOn": "2026-08-11"
-  },
-  {
-    "id": "68cc9cd4-8f44-415d-9fae-5a7bae32452f",
-    "title": "SDE Intern",
-    "company": "Swiggy",
-    "companyType": "Internship",
-    "category": "Internship",
-    "location": "India",
-    "experience": "Internship",
-    "skills": [
-      "Data Structures",
-      "Cloud",
-      "AWS",
-      "SQL"
-    ],
-    "postedOn": "2026-07-20",
-    "status": "Closed",
-    "applyLink": "https://careers.swiggy.com",
-    "closedOn": "2026-08-10"
   },
   {
     "id": "3f72c46a-ff83-4178-8d1d-54ea17e08c11",
