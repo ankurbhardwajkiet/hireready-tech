@@ -1,5 +1,41 @@
 [
   {
+    "id": "7fd66e6c-42a8-42ef-b341-59f8d61dcb32",
+    "title": "Software Engineer",
+    "company": "HCL",
+    "companyType": "Mass Recruiter",
+    "category": "Mass Recruiter",
+    "location": "India",
+    "experience": "0-2 Years",
+    "skills": [
+      "Docker",
+      "React",
+      "Cloud",
+      "Machine Learning"
+    ],
+    "postedOn": "2026-08-20",
+    "status": "Open",
+    "applyLink": "https://careers.hcl.com"
+  },
+  {
+    "id": "5447fc94-03a8-4add-8f0d-a0da3c5d4e0d",
+    "title": "Backend Developer",
+    "company": "Zoho",
+    "companyType": "Product Based",
+    "category": "Product Based",
+    "location": "India",
+    "experience": "1-3 Years",
+    "skills": [
+      "Node.js",
+      "Cloud",
+      "Docker",
+      "Python"
+    ],
+    "postedOn": "2026-08-20",
+    "status": "Open",
+    "applyLink": "https://careers.zoho.com"
+  },
+  {
     "id": "5f52bcce-4d7e-41ca-9090-d339ffb32827",
     "title": "Backend Developer",
     "company": "Freshworks",
@@ -185,25 +221,6 @@
     "closedOn": "2026-08-13"
   },
   {
-    "id": "ea3e1ce8-9f54-4ffd-be22-f98407f07165",
-    "title": "Backend Developer",
-    "company": "Zoho",
-    "companyType": "Product Based",
-    "category": "Product Based",
-    "location": "Chennai",
-    "experience": "1-3 Years",
-    "skills": [
-      "AWS",
-      "React",
-      "Python",
-      "Node.js"
-    ],
-    "postedOn": "2026-07-22",
-    "status": "Closed",
-    "applyLink": "https://careers.zoho.com",
-    "closedOn": "2026-08-12"
-  },
-  {
     "id": "3f72c46a-ff83-4178-8d1d-54ea17e08c11",
     "title": "Software Engineer",
     "company": "Wipro",
@@ -240,24 +257,5 @@
     "status": "Closed",
     "applyLink": "https://careers.techmahindra.com",
     "closedOn": "2026-08-13"
-  },
-  {
-    "id": "45976202-598a-4db7-be91-6ecc19aa1860",
-    "title": "Software Engineer",
-    "company": "HCL",
-    "companyType": "Mass Recruiter",
-    "category": "Mass Recruiter",
-    "location": "Remote",
-    "experience": "0-2 Years",
-    "skills": [
-      "React",
-      "Data Structures",
-      "AWS",
-      "Python"
-    ],
-    "postedOn": "2026-07-17",
-    "status": "Closed",
-    "applyLink": "https://careers.hcl.com",
-    "closedOn": "2026-08-12"
   }
 ]
