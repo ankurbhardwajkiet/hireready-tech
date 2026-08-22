@@ -1,5 +1,59 @@
 [
   {
+    "id": "3444f32f-06c1-4926-920e-228edcfc5807",
+    "title": "Backend Developer",
+    "company": "Razorpay",
+    "companyType": "Product Based",
+    "category": "Product Based",
+    "location": "Chennai",
+    "experience": "1-3 Years",
+    "skills": [
+      "React",
+      "Machine Learning",
+      "Java",
+      "Python"
+    ],
+    "postedOn": "2026-08-22",
+    "status": "Open",
+    "applyLink": "https://careers.razorpay.com"
+  },
+  {
+    "id": "11d00760-aab8-405f-bbb5-3311beb4c25c",
+    "title": "SDE Intern",
+    "company": "PhonePe",
+    "companyType": "Internship",
+    "category": "Internship",
+    "location": "Hyderabad",
+    "experience": "Internship",
+    "skills": [
+      "React",
+      "Node.js",
+      "SQL",
+      "Machine Learning"
+    ],
+    "postedOn": "2026-08-22",
+    "status": "Open",
+    "applyLink": "https://careers.phonepe.com"
+  },
+  {
+    "id": "991e9796-360c-4aed-925f-c76b6287be60",
+    "title": "SDE Intern",
+    "company": "Microsoft",
+    "companyType": "Internship",
+    "category": "Internship",
+    "location": "Chennai",
+    "experience": "Internship",
+    "skills": [
+      "Docker",
+      "Cloud",
+      "Java",
+      "Python"
+    ],
+    "postedOn": "2026-08-22",
+    "status": "Open",
+    "applyLink": "https://careers.microsoft.com"
+  },
+  {
     "id": "4162ae90-54b5-4ee2-a42e-8e281607560f",
     "title": "Software Engineer",
     "company": "Tech Mahindra",
@@ -179,62 +233,5 @@
     "status": "Closed",
     "applyLink": "https://careers.flipkart.com",
     "closedOn": "2026-08-16"
-  },
-  {
-    "id": "8d21b736-8471-4ad0-ae10-670ad833e6f9",
-    "title": "SDE Intern",
-    "company": "PhonePe",
-    "companyType": "Internship",
-    "category": "Internship",
-    "location": "Remote",
-    "experience": "Internship",
-    "skills": [
-      "AWS",
-      "Machine Learning",
-      "Python",
-      "Node.js"
-    ],
-    "postedOn": "2026-07-24",
-    "status": "Closed",
-    "applyLink": "https://careers.phonepe.com",
-    "closedOn": "2026-08-14"
-  },
-  {
-    "id": "ab769938-ace5-43dd-9d8a-2accc7bdab6b",
-    "title": "Backend Developer",
-    "company": "Razorpay",
-    "companyType": "Product Based",
-    "category": "Product Based",
-    "location": "Bangalore",
-    "experience": "1-3 Years",
-    "skills": [
-      "Python",
-      "Cloud",
-      "AWS",
-      "React"
-    ],
-    "postedOn": "2026-07-24",
-    "status": "Closed",
-    "applyLink": "https://careers.razorpay.com",
-    "closedOn": "2026-08-14"
-  },
-  {
-    "id": "3f72c46a-ff83-4178-8d1d-54ea17e08c11",
-    "title": "Software Engineer",
-    "company": "Wipro",
-    "companyType": "Mass Recruiter",
-    "category": "Mass Recruiter",
-    "location": "India",
-    "experience": "0-2 Years",
-    "skills": [
-      "React",
-      "Machine Learning",
-      "Node.js",
-      "SQL"
-    ],
-    "postedOn": "2026-07-19",
-    "status": "Closed",
-    "applyLink": "https://careers.wipro.com",
-    "closedOn": "2026-08-14"
   }
 ]
