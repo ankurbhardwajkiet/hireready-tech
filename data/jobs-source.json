@@ -1,5 +1,23 @@
 [
   {
+    "id": "94e671b1-ef53-4f75-931a-d2530375a6c0",
+    "title": "SDE Intern",
+    "company": "Google",
+    "companyType": "Internship",
+    "category": "Internship",
+    "location": "Hyderabad",
+    "experience": "Internship",
+    "skills": [
+      "Docker",
+      "Machine Learning",
+      "Data Structures",
+      "React"
+    ],
+    "postedOn": "2026-08-23",
+    "status": "Open",
+    "applyLink": "https://careers.google.com"
+  },
+  {
     "id": "3444f32f-06c1-4926-920e-228edcfc5807",
     "title": "Backend Developer",
     "company": "Razorpay",
@@ -212,8 +230,9 @@
       "Machine Learning"
     ],
     "postedOn": "2026-08-02",
-    "status": "Open",
-    "applyLink": "https://careers.paytm.com"
+    "status": "Closed",
+    "applyLink": "https://careers.paytm.com",
+    "closedOn": "2026-08-23"
   },
   {
     "id": "ec3cec4d-5ba7-441d-9bcd-d1d8e226e124",
