@@ -1,5 +1,41 @@
 [
   {
+    "id": "d8920802-449c-401a-a184-bd2ad98b3054",
+    "title": "Software Engineer",
+    "company": "Wipro",
+    "companyType": "Mass Recruiter",
+    "category": "Mass Recruiter",
+    "location": "Hyderabad",
+    "experience": "0-2 Years",
+    "skills": [
+      "Data Structures",
+      "Machine Learning",
+      "React",
+      "Cloud"
+    ],
+    "postedOn": "2026-08-24",
+    "status": "Open",
+    "applyLink": "https://careers.wipro.com"
+  },
+  {
+    "id": "958a9a3c-20f8-4642-b756-371b6a97e5da",
+    "title": "Backend Developer",
+    "company": "Flipkart",
+    "companyType": "Product Based",
+    "category": "Product Based",
+    "location": "Chennai",
+    "experience": "1-3 Years",
+    "skills": [
+      "SQL",
+      "Java",
+      "Node.js",
+      "AWS"
+    ],
+    "postedOn": "2026-08-24",
+    "status": "Open",
+    "applyLink": "https://careers.flipkart.com"
+  },
+  {
     "id": "94e671b1-ef53-4f75-931a-d2530375a6c0",
     "title": "SDE Intern",
     "company": "Google",
@@ -233,24 +269,5 @@
     "status": "Closed",
     "applyLink": "https://careers.paytm.com",
     "closedOn": "2026-08-23"
-  },
-  {
-    "id": "ec3cec4d-5ba7-441d-9bcd-d1d8e226e124",
-    "title": "Backend Developer",
-    "company": "Flipkart",
-    "companyType": "Product Based",
-    "category": "Product Based",
-    "location": "India",
-    "experience": "1-3 Years",
-    "skills": [
-      "Docker",
-      "React",
-      "Machine Learning",
-      "Python"
-    ],
-    "postedOn": "2026-07-26",
-    "status": "Closed",
-    "applyLink": "https://careers.flipkart.com",
-    "closedOn": "2026-08-16"
   }
 ]
