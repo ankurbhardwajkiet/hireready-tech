@@ -250,24 +250,5 @@
     "postedOn": "2026-08-17",
     "status": "Open",
     "applyLink": "https://careers.infosys.com"
-  },
-  {
-    "id": "606b13f9-cc56-4d81-82d6-8e7f0d21ba44",
-    "title": "SDE Intern",
-    "company": "Paytm",
-    "companyType": "Internship",
-    "category": "Internship",
-    "location": "Bangalore",
-    "experience": "Internship",
-    "skills": [
-      "Cloud",
-      "Data Structures",
-      "SQL",
-      "Machine Learning"
-    ],
-    "postedOn": "2026-08-02",
-    "status": "Closed",
-    "applyLink": "https://careers.paytm.com",
-    "closedOn": "2026-08-23"
   }
 ]
