@@ -1,5 +1,23 @@
 [
   {
+    "id": "67112abe-81c4-4218-ac42-c598adde79ed",
+    "title": "SDE Intern",
+    "company": "Paytm",
+    "companyType": "Internship",
+    "category": "Internship",
+    "location": "Hyderabad",
+    "experience": "Internship",
+    "skills": [
+      "Cloud",
+      "Node.js",
+      "Python",
+      "Data Structures"
+    ],
+    "postedOn": "2026-09-01",
+    "status": "Open",
+    "applyLink": "https://careers.paytm.com"
+  },
+  {
     "id": "d8920802-449c-401a-a184-bd2ad98b3054",
     "title": "Software Engineer",
     "company": "Wipro",
