@@ -86,8 +86,9 @@
       "Python"
     ],
     "postedOn": "2026-08-22",
-    "status": "Open",
-    "applyLink": "https://careers.razorpay.com"
+    "status": "Closed",
+    "applyLink": "https://careers.razorpay.com",
+    "closedOn": "2026-09-12"
   },
   {
     "id": "11d00760-aab8-405f-bbb5-3311beb4c25c",
@@ -104,8 +105,9 @@
       "Machine Learning"
     ],
     "postedOn": "2026-08-22",
-    "status": "Open",
-    "applyLink": "https://careers.phonepe.com"
+    "status": "Closed",
+    "applyLink": "https://careers.phonepe.com",
+    "closedOn": "2026-09-12"
   },
   {
     "id": "991e9796-360c-4aed-925f-c76b6287be60",
@@ -122,8 +124,9 @@
       "Python"
     ],
     "postedOn": "2026-08-22",
-    "status": "Open",
-    "applyLink": "https://careers.microsoft.com"
+    "status": "Closed",
+    "applyLink": "https://careers.microsoft.com",
+    "closedOn": "2026-09-12"
   },
   {
     "id": "4162ae90-54b5-4ee2-a42e-8e281607560f",
@@ -270,7 +273,8 @@
       "React"
     ],
     "postedOn": "2026-08-17",
-    "status": "Open",
-    "applyLink": "https://careers.infosys.com"
+    "status": "Closed",
+    "applyLink": "https://careers.infosys.com",
+    "closedOn": "2026-09-12"
   }
 ]
