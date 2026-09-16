@@ -1,5 +1,23 @@
 [
   {
+    "id": "4c8baca8-579a-4616-8faa-f4e1eb9ae8f8",
+    "title": "SDE Intern",
+    "company": "Swiggy",
+    "companyType": "Internship",
+    "category": "Internship",
+    "location": "Chennai",
+    "experience": "Internship",
+    "skills": [
+      "React",
+      "Docker",
+      "Data Structures",
+      "AWS"
+    ],
+    "postedOn": "2026-09-16",
+    "status": "Open",
+    "applyLink": "https://careers.swiggy.com"
+  },
+  {
     "id": "67112abe-81c4-4218-ac42-c598adde79ed",
     "title": "SDE Intern",
     "company": "Paytm",
@@ -145,8 +163,9 @@
       "Docker"
     ],
     "postedOn": "2026-08-21",
-    "status": "Open",
-    "applyLink": "https://careers.techmahindra.com"
+    "status": "Closed",
+    "applyLink": "https://careers.techmahindra.com",
+    "closedOn": "2026-09-16"
   },
   {
     "id": "903bb168-b2c3-4e99-a5c2-90684eb8796b",
@@ -242,25 +261,6 @@
     "status": "Closed",
     "applyLink": "https://careers.tcs.com",
     "closedOn": "2026-09-13"
-  },
-  {
-    "id": "c7f23443-4e9f-4484-b912-d12d75a9e6ab",
-    "title": "SDE Intern",
-    "company": "Swiggy",
-    "companyType": "Internship",
-    "category": "Internship",
-    "location": "Hyderabad",
-    "experience": "Internship",
-    "skills": [
-      "React",
-      "AWS",
-      "Docker",
-      "Node.js"
-    ],
-    "postedOn": "2026-08-18",
-    "status": "Closed",
-    "applyLink": "https://careers.swiggy.com",
-    "closedOn": "2026-09-08"
   },
   {
     "id": "f88a6ab7-7889-428d-8020-c6e9bd1a7b10",
