@@ -1,5 +1,23 @@
 [
   {
+    "id": "a2c03156-560d-4f92-9def-6f0d977c0ec4",
+    "title": "Software Engineer",
+    "company": "Tech Mahindra",
+    "companyType": "Mass Recruiter",
+    "category": "Mass Recruiter",
+    "location": "Bangalore",
+    "experience": "0-2 Years",
+    "skills": [
+      "Cloud",
+      "AWS",
+      "SQL",
+      "Docker"
+    ],
+    "postedOn": "2026-09-24",
+    "status": "Open",
+    "applyLink": "https://careers.techmahindra.com"
+  },
+  {
     "id": "c4a24f07-38b7-4448-8e6a-97e4f4abe915",
     "title": "Software Engineer",
     "company": "TCS",
@@ -234,24 +252,5 @@
     "status": "Closed",
     "applyLink": "https://careers.wipro.com",
     "closedOn": "2026-09-19"
-  },
-  {
-    "id": "4162ae90-54b5-4ee2-a42e-8e281607560f",
-    "title": "Software Engineer",
-    "company": "Tech Mahindra",
-    "companyType": "Mass Recruiter",
-    "category": "Mass Recruiter",
-    "location": "Chennai",
-    "experience": "0-2 Years",
-    "skills": [
-      "SQL",
-      "Data Structures",
-      "Java",
-      "Docker"
-    ],
-    "postedOn": "2026-08-21",
-    "status": "Closed",
-    "applyLink": "https://careers.techmahindra.com",
-    "closedOn": "2026-09-16"
   }
 ]
