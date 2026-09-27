@@ -1,5 +1,23 @@
 [
   {
+    "id": "57d42884-cf6e-4a35-9e5f-65fdacd1584f",
+    "title": "Software Engineer",
+    "company": "Wipro",
+    "companyType": "Mass Recruiter",
+    "category": "Mass Recruiter",
+    "location": "Bangalore",
+    "experience": "0-2 Years",
+    "skills": [
+      "Machine Learning",
+      "Data Structures",
+      "Node.js",
+      "Docker"
+    ],
+    "postedOn": "2026-09-27",
+    "status": "Open",
+    "applyLink": "https://careers.wipro.com"
+  },
+  {
     "id": "a2c03156-560d-4f92-9def-6f0d977c0ec4",
     "title": "Software Engineer",
     "company": "Tech Mahindra",
@@ -233,24 +251,5 @@
     "status": "Closed",
     "applyLink": "https://careers.paytm.com",
     "closedOn": "2026-09-22"
-  },
-  {
-    "id": "d8920802-449c-401a-a184-bd2ad98b3054",
-    "title": "Software Engineer",
-    "company": "Wipro",
-    "companyType": "Mass Recruiter",
-    "category": "Mass Recruiter",
-    "location": "Hyderabad",
-    "experience": "0-2 Years",
-    "skills": [
-      "Data Structures",
-      "Machine Learning",
-      "React",
-      "Cloud"
-    ],
-    "postedOn": "2026-08-24",
-    "status": "Closed",
-    "applyLink": "https://careers.wipro.com",
-    "closedOn": "2026-09-19"
   }
 ]
