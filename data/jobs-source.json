@@ -1,5 +1,23 @@
 [
   {
+    "id": "63889514-12d0-459d-8c49-71098a7c6288",
+    "title": "Software Engineer",
+    "company": "HCL",
+    "companyType": "Mass Recruiter",
+    "category": "Mass Recruiter",
+    "location": "Chennai",
+    "experience": "0-2 Years",
+    "skills": [
+      "Python",
+      "Data Structures",
+      "Machine Learning",
+      "AWS"
+    ],
+    "postedOn": "2026-09-28",
+    "status": "Open",
+    "applyLink": "https://careers.hcl.com"
+  },
+  {
     "id": "57d42884-cf6e-4a35-9e5f-65fdacd1584f",
     "title": "Software Engineer",
     "company": "Wipro",
