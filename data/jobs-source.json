@@ -1,5 +1,23 @@
 [
   {
+    "id": "7ad9abe8-cc9c-42ed-8e6c-59f09dab0f18",
+    "title": "SDE Intern",
+    "company": "Paytm",
+    "companyType": "Internship",
+    "category": "Internship",
+    "location": "Remote",
+    "experience": "Internship",
+    "skills": [
+      "Java",
+      "Docker",
+      "Machine Learning",
+      "SQL"
+    ],
+    "postedOn": "2026-09-30",
+    "status": "Open",
+    "applyLink": "https://careers.paytm.com"
+  },
+  {
     "id": "63889514-12d0-459d-8c49-71098a7c6288",
     "title": "Software Engineer",
     "company": "HCL",
@@ -250,24 +268,5 @@
     "postedOn": "2026-09-16",
     "status": "Open",
     "applyLink": "https://careers.swiggy.com"
-  },
-  {
-    "id": "67112abe-81c4-4218-ac42-c598adde79ed",
-    "title": "SDE Intern",
-    "company": "Paytm",
-    "companyType": "Internship",
-    "category": "Internship",
-    "location": "Hyderabad",
-    "experience": "Internship",
-    "skills": [
-      "Cloud",
-      "Node.js",
-      "Python",
-      "Data Structures"
-    ],
-    "postedOn": "2026-09-01",
-    "status": "Closed",
-    "applyLink": "https://careers.paytm.com",
-    "closedOn": "2026-09-22"
   }
 ]
