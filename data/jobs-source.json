@@ -258,24 +258,5 @@
     "status": "Closed",
     "applyLink": "https://careers.freshworks.com",
     "closedOn": "2026-10-08"
-  },
-  {
-    "id": "4c8baca8-579a-4616-8faa-f4e1eb9ae8f8",
-    "title": "SDE Intern",
-    "company": "Swiggy",
-    "companyType": "Internship",
-    "category": "Internship",
-    "location": "Chennai",
-    "experience": "Internship",
-    "skills": [
-      "React",
-      "Docker",
-      "Data Structures",
-      "AWS"
-    ],
-    "postedOn": "2026-09-16",
-    "status": "Closed",
-    "applyLink": "https://careers.swiggy.com",
-    "closedOn": "2026-10-07"
   }
 ]
