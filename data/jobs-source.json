@@ -238,24 +238,5 @@
     "status": "Closed",
     "applyLink": "https://careers.phonepe.com",
     "closedOn": "2026-10-11"
-  },
-  {
-    "id": "8e18c3e9-a16f-4edd-bc8d-82372a66c380",
-    "title": "Backend Developer",
-    "company": "Amazon",
-    "companyType": "Product Based",
-    "category": "Product Based",
-    "location": "India",
-    "experience": "1-3 Years",
-    "skills": [
-      "Docker",
-      "SQL",
-      "Node.js",
-      "Python"
-    ],
-    "postedOn": "2026-09-19",
-    "status": "Closed",
-    "applyLink": "https://careers.amazon.com",
-    "closedOn": "2026-10-10"
   }
 ]
