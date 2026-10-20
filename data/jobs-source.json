@@ -1,5 +1,23 @@
 [
   {
+    "id": "a1ff2e59-2117-42be-93e0-4c471f1b83e0",
+    "title": "SDE Intern",
+    "company": "PhonePe",
+    "companyType": "Internship",
+    "category": "Internship",
+    "location": "Remote",
+    "experience": "Internship",
+    "skills": [
+      "Node.js",
+      "React",
+      "SQL",
+      "Cloud"
+    ],
+    "postedOn": "2026-10-20",
+    "status": "Open",
+    "applyLink": "https://careers.phonepe.com"
+  },
+  {
     "id": "066f7b11-ca7d-4844-8dac-5039a0738695",
     "title": "Backend Developer",
     "company": "Amazon",
@@ -140,8 +158,9 @@
       "Docker"
     ],
     "postedOn": "2026-09-24",
-    "status": "Open",
-    "applyLink": "https://careers.techmahindra.com"
+    "status": "Closed",
+    "applyLink": "https://careers.techmahindra.com",
+    "closedOn": "2026-10-20"
   },
   {
     "id": "c4a24f07-38b7-4448-8e6a-97e4f4abe915",
