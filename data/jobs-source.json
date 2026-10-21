@@ -1,5 +1,41 @@
 [
   {
+    "id": "a3953cac-54bc-4cef-bebd-6399f9827622",
+    "title": "SDE Intern",
+    "company": "Microsoft",
+    "companyType": "Internship",
+    "category": "Internship",
+    "location": "India",
+    "experience": "Internship",
+    "skills": [
+      "Cloud",
+      "Node.js",
+      "Java",
+      "SQL"
+    ],
+    "postedOn": "2026-10-21",
+    "status": "Open",
+    "applyLink": "https://careers.microsoft.com"
+  },
+  {
+    "id": "58c318c3-8017-45b5-9246-102aeaef7849",
+    "title": "Backend Developer",
+    "company": "Razorpay",
+    "companyType": "Product Based",
+    "category": "Product Based",
+    "location": "Chennai",
+    "experience": "1-3 Years",
+    "skills": [
+      "AWS",
+      "React",
+      "Docker",
+      "SQL"
+    ],
+    "postedOn": "2026-10-21",
+    "status": "Open",
+    "applyLink": "https://careers.razorpay.com"
+  },
+  {
     "id": "a1ff2e59-2117-42be-93e0-4c471f1b83e0",
     "title": "SDE Intern",
     "company": "PhonePe",
@@ -104,8 +140,9 @@
       "SQL"
     ],
     "postedOn": "2026-09-30",
-    "status": "Open",
-    "applyLink": "https://careers.paytm.com"
+    "status": "Closed",
+    "applyLink": "https://careers.paytm.com",
+    "closedOn": "2026-10-21"
   },
   {
     "id": "63889514-12d0-459d-8c49-71098a7c6288",
@@ -180,82 +217,6 @@
     "status": "Closed",
     "applyLink": "https://careers.tcs.com",
     "closedOn": "2026-10-19"
-  },
-  {
-    "id": "4abd322b-64cc-4b3e-8500-759fdcd83f84",
-    "title": "SDE Intern",
-    "company": "Google",
-    "companyType": "Internship",
-    "category": "Internship",
-    "location": "Bangalore",
-    "experience": "Internship",
-    "skills": [
-      "AWS",
-      "Python",
-      "Machine Learning",
-      "Data Structures"
-    ],
-    "postedOn": "2026-09-22",
-    "status": "Closed",
-    "applyLink": "https://careers.google.com",
-    "closedOn": "2026-10-13"
-  },
-  {
-    "id": "ef402120-d9d6-422e-a42a-6654f70b5828",
-    "title": "Backend Developer",
-    "company": "Flipkart",
-    "companyType": "Product Based",
-    "category": "Product Based",
-    "location": "Hyderabad",
-    "experience": "1-3 Years",
-    "skills": [
-      "Cloud",
-      "AWS",
-      "React",
-      "Machine Learning"
-    ],
-    "postedOn": "2026-09-22",
-    "status": "Closed",
-    "applyLink": "https://careers.flipkart.com",
-    "closedOn": "2026-10-13"
-  },
-  {
-    "id": "e320acc8-955b-408d-b878-2600e1e64ccf",
-    "title": "Backend Developer",
-    "company": "Razorpay",
-    "companyType": "Product Based",
-    "category": "Product Based",
-    "location": "Remote",
-    "experience": "1-3 Years",
-    "skills": [
-      "Docker",
-      "AWS",
-      "Cloud",
-      "React"
-    ],
-    "postedOn": "2026-09-21",
-    "status": "Closed",
-    "applyLink": "https://careers.razorpay.com",
-    "closedOn": "2026-10-13"
-  },
-  {
-    "id": "f48423ba-3c64-4760-98de-4a51788c7f44",
-    "title": "SDE Intern",
-    "company": "Microsoft",
-    "companyType": "Internship",
-    "category": "Internship",
-    "location": "Hyderabad",
-    "experience": "Internship",
-    "skills": [
-      "Docker",
-      "Java",
-      "React",
-      "Python"
-    ],
-    "postedOn": "2026-09-21",
-    "status": "Closed",
-    "applyLink": "https://careers.microsoft.com",
-    "closedOn": "2026-10-13"
   },
   {
     "id": "38d03fb7-3f43-4980-bb46-70bd29453df3",
