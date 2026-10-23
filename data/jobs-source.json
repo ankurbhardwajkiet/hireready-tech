@@ -1,5 +1,41 @@
 [
   {
+    "id": "e1b4cf04-4e40-4be5-bbdf-37ac701a1c02",
+    "title": "Backend Developer",
+    "company": "Flipkart",
+    "companyType": "Product Based",
+    "category": "Product Based",
+    "location": "Chennai",
+    "experience": "1-3 Years",
+    "skills": [
+      "React",
+      "Node.js",
+      "SQL",
+      "AWS"
+    ],
+    "postedOn": "2026-10-23",
+    "status": "Open",
+    "applyLink": "https://careers.flipkart.com"
+  },
+  {
+    "id": "b17f6dee-79d6-4c44-a57a-34967d0a3bcd",
+    "title": "SDE Intern",
+    "company": "Google",
+    "companyType": "Internship",
+    "category": "Internship",
+    "location": "Chennai",
+    "experience": "Internship",
+    "skills": [
+      "Cloud",
+      "SQL",
+      "Java",
+      "Node.js"
+    ],
+    "postedOn": "2026-10-23",
+    "status": "Open",
+    "applyLink": "https://careers.google.com"
+  },
+  {
     "id": "a3953cac-54bc-4cef-bebd-6399f9827622",
     "title": "SDE Intern",
     "company": "Microsoft",
@@ -177,8 +213,9 @@
       "Docker"
     ],
     "postedOn": "2026-09-27",
-    "status": "Open",
-    "applyLink": "https://careers.wipro.com"
+    "status": "Closed",
+    "applyLink": "https://careers.wipro.com",
+    "closedOn": "2026-10-23"
   },
   {
     "id": "a2c03156-560d-4f92-9def-6f0d977c0ec4",
