@@ -1,5 +1,23 @@
 [
   {
+    "id": "7aa62428-4b84-4c6a-beb2-778bf81135f2",
+    "title": "Software Engineer",
+    "company": "Infosys",
+    "companyType": "Mass Recruiter",
+    "category": "Mass Recruiter",
+    "location": "Chennai",
+    "experience": "0-2 Years",
+    "skills": [
+      "AWS",
+      "React",
+      "Java",
+      "Cloud"
+    ],
+    "postedOn": "2026-10-24",
+    "status": "Open",
+    "applyLink": "https://careers.infosys.com"
+  },
+  {
     "id": "e1b4cf04-4e40-4be5-bbdf-37ac701a1c02",
     "title": "Backend Developer",
     "company": "Flipkart",
@@ -195,8 +213,9 @@
       "AWS"
     ],
     "postedOn": "2026-09-28",
-    "status": "Open",
-    "applyLink": "https://careers.hcl.com"
+    "status": "Closed",
+    "applyLink": "https://careers.hcl.com",
+    "closedOn": "2026-10-24"
   },
   {
     "id": "57d42884-cf6e-4a35-9e5f-65fdacd1584f",
@@ -254,24 +273,5 @@
     "status": "Closed",
     "applyLink": "https://careers.tcs.com",
     "closedOn": "2026-10-19"
-  },
-  {
-    "id": "38d03fb7-3f43-4980-bb46-70bd29453df3",
-    "title": "Software Engineer",
-    "company": "Infosys",
-    "companyType": "Mass Recruiter",
-    "category": "Mass Recruiter",
-    "location": "Hyderabad",
-    "experience": "0-2 Years",
-    "skills": [
-      "Data Structures",
-      "Machine Learning",
-      "Cloud",
-      "AWS"
-    ],
-    "postedOn": "2026-09-20",
-    "status": "Closed",
-    "applyLink": "https://careers.infosys.com",
-    "closedOn": "2026-10-16"
   }
 ]
