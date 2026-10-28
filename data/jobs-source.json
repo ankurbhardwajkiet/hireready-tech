@@ -253,24 +253,5 @@
     "status": "Closed",
     "applyLink": "https://careers.wipro.com",
     "closedOn": "2026-10-23"
-  },
-  {
-    "id": "a2c03156-560d-4f92-9def-6f0d977c0ec4",
-    "title": "Software Engineer",
-    "company": "Tech Mahindra",
-    "companyType": "Mass Recruiter",
-    "category": "Mass Recruiter",
-    "location": "Bangalore",
-    "experience": "0-2 Years",
-    "skills": [
-      "Cloud",
-      "AWS",
-      "SQL",
-      "Docker"
-    ],
-    "postedOn": "2026-09-24",
-    "status": "Closed",
-    "applyLink": "https://careers.techmahindra.com",
-    "closedOn": "2026-10-20"
   }
 ]
