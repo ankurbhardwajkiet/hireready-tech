@@ -1,5 +1,23 @@
 [
   {
+    "id": "4b0d1fbd-abf1-456b-a798-687315cd6dad",
+    "title": "Software Engineer",
+    "company": "Wipro",
+    "companyType": "Mass Recruiter",
+    "category": "Mass Recruiter",
+    "location": "Remote",
+    "experience": "0-2 Years",
+    "skills": [
+      "Machine Learning",
+      "Data Structures",
+      "React",
+      "Docker"
+    ],
+    "postedOn": "2026-10-31",
+    "status": "Open",
+    "applyLink": "https://careers.wipro.com"
+  },
+  {
     "id": "5964b038-f5ce-4610-99df-c2e2e876088c",
     "title": "Software Engineer",
     "company": "Tech Mahindra",
@@ -233,24 +251,5 @@
     "status": "Closed",
     "applyLink": "https://careers.hcl.com",
     "closedOn": "2026-10-24"
-  },
-  {
-    "id": "57d42884-cf6e-4a35-9e5f-65fdacd1584f",
-    "title": "Software Engineer",
-    "company": "Wipro",
-    "companyType": "Mass Recruiter",
-    "category": "Mass Recruiter",
-    "location": "Bangalore",
-    "experience": "0-2 Years",
-    "skills": [
-      "Machine Learning",
-      "Data Structures",
-      "Node.js",
-      "Docker"
-    ],
-    "postedOn": "2026-09-27",
-    "status": "Closed",
-    "applyLink": "https://careers.wipro.com",
-    "closedOn": "2026-10-23"
   }
 ]
