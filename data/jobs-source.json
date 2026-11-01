@@ -1,5 +1,41 @@
 [
   {
+    "id": "e5145e6d-b3fb-4a8a-aef9-4ac2079034b3",
+    "title": "SDE Intern",
+    "company": "Paytm",
+    "companyType": "Internship",
+    "category": "Internship",
+    "location": "Bangalore",
+    "experience": "Internship",
+    "skills": [
+      "Data Structures",
+      "Machine Learning",
+      "Docker",
+      "Python"
+    ],
+    "postedOn": "2026-11-01",
+    "status": "Open",
+    "applyLink": "https://careers.paytm.com"
+  },
+  {
+    "id": "a50c61b9-8281-480f-acba-ce3d29a49799",
+    "title": "Software Engineer",
+    "company": "HCL",
+    "companyType": "Mass Recruiter",
+    "category": "Mass Recruiter",
+    "location": "Hyderabad",
+    "experience": "0-2 Years",
+    "skills": [
+      "SQL",
+      "Java",
+      "Cloud",
+      "Docker"
+    ],
+    "postedOn": "2026-11-01",
+    "status": "Open",
+    "applyLink": "https://careers.hcl.com"
+  },
+  {
     "id": "4b0d1fbd-abf1-456b-a798-687315cd6dad",
     "title": "Software Engineer",
     "company": "Wipro",
@@ -232,24 +268,5 @@
     "postedOn": "2026-10-17",
     "status": "Open",
     "applyLink": "https://careers.zoho.com"
-  },
-  {
-    "id": "63889514-12d0-459d-8c49-71098a7c6288",
-    "title": "Software Engineer",
-    "company": "HCL",
-    "companyType": "Mass Recruiter",
-    "category": "Mass Recruiter",
-    "location": "Chennai",
-    "experience": "0-2 Years",
-    "skills": [
-      "Python",
-      "Data Structures",
-      "Machine Learning",
-      "AWS"
-    ],
-    "postedOn": "2026-09-28",
-    "status": "Closed",
-    "applyLink": "https://careers.hcl.com",
-    "closedOn": "2026-10-24"
   }
 ]
