@@ -248,8 +248,9 @@
       "Java"
     ],
     "postedOn": "2026-10-17",
-    "status": "Open",
-    "applyLink": "https://careers.freshworks.com"
+    "status": "Closed",
+    "applyLink": "https://careers.freshworks.com",
+    "closedOn": "2026-11-07"
   },
   {
     "id": "e2e71f77-5456-443e-9a97-60c9551e4221",
@@ -266,7 +267,8 @@
       "Node.js"
     ],
     "postedOn": "2026-10-17",
-    "status": "Open",
-    "applyLink": "https://careers.zoho.com"
+    "status": "Closed",
+    "applyLink": "https://careers.zoho.com",
+    "closedOn": "2026-11-07"
   }
 ]
