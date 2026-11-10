@@ -194,8 +194,9 @@
       "Cloud"
     ],
     "postedOn": "2026-10-20",
-    "status": "Open",
-    "applyLink": "https://careers.phonepe.com"
+    "status": "Closed",
+    "applyLink": "https://careers.phonepe.com",
+    "closedOn": "2026-11-10"
   },
   {
     "id": "066f7b11-ca7d-4844-8dac-5039a0738695",
@@ -212,8 +213,9 @@
       "Machine Learning"
     ],
     "postedOn": "2026-10-19",
-    "status": "Open",
-    "applyLink": "https://careers.amazon.com"
+    "status": "Closed",
+    "applyLink": "https://careers.amazon.com",
+    "closedOn": "2026-11-10"
   },
   {
     "id": "2ec6b39c-21f7-4155-975b-aee8bea7f385",
@@ -230,8 +232,9 @@
       "Python"
     ],
     "postedOn": "2026-10-19",
-    "status": "Open",
-    "applyLink": "https://careers.swiggy.com"
+    "status": "Closed",
+    "applyLink": "https://careers.swiggy.com",
+    "closedOn": "2026-11-10"
   },
   {
     "id": "8258fc4c-afb7-4edc-b804-d4f05da434fc",
