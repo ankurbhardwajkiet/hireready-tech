@@ -36,6 +36,24 @@
     "applyLink": "https://careers.amazon.com"
   },
   {
+    "id": "d9686f93-2e53-4f38-8599-91d31eee60df",
+    "title": "SDE Intern",
+    "company": "Swiggy",
+    "companyType": "Internship",
+    "category": "Internship",
+    "location": "Chennai",
+    "experience": "Internship",
+    "skills": [
+      "Cloud",
+      "AWS",
+      "Docker",
+      "React"
+    ],
+    "postedOn": "2026-11-20",
+    "status": "Open",
+    "applyLink": "https://careers.swiggy.com"
+  },
+  {
     "id": "11d3d725-041f-4932-9c0a-36628ae4ddbb",
     "title": "Backend Developer",
     "company": "Zoho",
