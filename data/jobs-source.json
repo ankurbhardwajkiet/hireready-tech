@@ -1,5 +1,41 @@
 [
   {
+    "id": "0bbaddc4-b51c-491c-8565-0fa25bdca9f9",
+    "title": "Backend Developer",
+    "company": "Razorpay",
+    "companyType": "Product Based",
+    "category": "Product Based",
+    "location": "Bangalore",
+    "experience": "1-3 Years",
+    "skills": [
+      "SQL",
+      "Node.js",
+      "Java",
+      "Data Structures"
+    ],
+    "postedOn": "2026-11-20",
+    "status": "Open",
+    "applyLink": "https://careers.razorpay.com"
+  },
+  {
+    "id": "5ad85b7c-18de-4e45-95c5-b8bd2ccc3dbf",
+    "title": "Backend Developer",
+    "company": "Amazon",
+    "companyType": "Product Based",
+    "category": "Product Based",
+    "location": "India",
+    "experience": "1-3 Years",
+    "skills": [
+      "React",
+      "Java",
+      "SQL",
+      "Docker"
+    ],
+    "postedOn": "2026-11-20",
+    "status": "Open",
+    "applyLink": "https://careers.amazon.com"
+  },
+  {
     "id": "11d3d725-041f-4932-9c0a-36628ae4ddbb",
     "title": "Backend Developer",
     "company": "Zoho",
@@ -158,8 +194,9 @@
       "Cloud"
     ],
     "postedOn": "2026-10-24",
-    "status": "Open",
-    "applyLink": "https://careers.infosys.com"
+    "status": "Closed",
+    "applyLink": "https://careers.infosys.com",
+    "closedOn": "2026-11-20"
   },
   {
     "id": "e1b4cf04-4e40-4be5-bbdf-37ac701a1c02",
@@ -198,43 +235,5 @@
     "status": "Closed",
     "applyLink": "https://careers.google.com",
     "closedOn": "2026-11-13"
-  },
-  {
-    "id": "a3953cac-54bc-4cef-bebd-6399f9827622",
-    "title": "SDE Intern",
-    "company": "Microsoft",
-    "companyType": "Internship",
-    "category": "Internship",
-    "location": "India",
-    "experience": "Internship",
-    "skills": [
-      "Cloud",
-      "Node.js",
-      "Java",
-      "SQL"
-    ],
-    "postedOn": "2026-10-21",
-    "status": "Closed",
-    "applyLink": "https://careers.microsoft.com",
-    "closedOn": "2026-11-11"
-  },
-  {
-    "id": "58c318c3-8017-45b5-9246-102aeaef7849",
-    "title": "Backend Developer",
-    "company": "Razorpay",
-    "companyType": "Product Based",
-    "category": "Product Based",
-    "location": "Chennai",
-    "experience": "1-3 Years",
-    "skills": [
-      "AWS",
-      "React",
-      "Docker",
-      "SQL"
-    ],
-    "postedOn": "2026-10-21",
-    "status": "Closed",
-    "applyLink": "https://careers.razorpay.com",
-    "closedOn": "2026-11-11"
   }
 ]
