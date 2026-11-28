@@ -255,24 +255,5 @@
     "status": "Closed",
     "applyLink": "https://careers.tcs.com",
     "closedOn": "2026-11-22"
-  },
-  {
-    "id": "7aa62428-4b84-4c6a-beb2-778bf81135f2",
-    "title": "Software Engineer",
-    "company": "Infosys",
-    "companyType": "Mass Recruiter",
-    "category": "Mass Recruiter",
-    "location": "Chennai",
-    "experience": "0-2 Years",
-    "skills": [
-      "AWS",
-      "React",
-      "Java",
-      "Cloud"
-    ],
-    "postedOn": "2026-10-24",
-    "status": "Closed",
-    "applyLink": "https://careers.infosys.com",
-    "closedOn": "2026-11-20"
   }
 ]
